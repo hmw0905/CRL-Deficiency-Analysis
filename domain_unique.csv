@@ -1,0 +1,611 @@
+event_id,deficiency_domain,application_type,office,regulatory_pathway,year
+CRL_001,CMC,NDA,Not Available,Not Available,2025
+CRL_001,Clinical,NDA,Not Available,Not Available,2025
+CRL_001,Nonclinical,NDA,Not Available,Not Available,2025
+CRL_001,Statistics,NDA,Not Available,Not Available,2025
+CRL_002,CMC,NDA,Not Available,Not Available,2024
+CRL_003,Clinical,NDA,Not Available,Not Available,2024
+CRL_003,Statistics,NDA,Not Available,Not Available,2024
+CRL_004,CMC,NDA,Not Available,Not Available,2025
+CRL_004,Nonclinical,NDA,Not Available,Not Available,2025
+CRL_005,Clinical,NDA,Not Available,Not Available,2024
+CRL_006,Clinical,NDA,Not Available,Not Available,2025
+CRL_007,CMC,NDA,Not Available,Not Available,2025
+CRL_007,Clinical,NDA,Not Available,Not Available,2025
+CRL_008,CMC,NDA,Not Available,Not Available,2024
+CRL_008,Clinical,NDA,Not Available,Not Available,2024
+CRL_009,CMC,NDA,Not Available,Not Available,2025
+CRL_010,Clinical,NDA,Not Available,Not Available,2024
+CRL_010,Statistics,NDA,Not Available,Not Available,2024
+CRL_011,CMC,NDA,Not Available,Not Available,2024
+CRL_012,CMC,NDA,Not Available,Not Available,2024
+CRL_013,CMC,NDA,Not Available,Not Available,2024
+CRL_014,Clinical,NDA,Not Available,Not Available,2025
+CRL_014,Statistics,NDA,Not Available,Not Available,2025
+CRL_015,CMC,NDA,Not Available,Not Available,2025
+CRL_016,CMC,NDA,Not Available,Not Available,2024
+CRL_017,CMC,NDA,Not Available,Not Available,2025
+CRL_017,Clinical,NDA,Not Available,Not Available,2025
+CRL_017,Statistics,NDA,Not Available,Not Available,2025
+CRL_018,CMC,NDA,Not Available,Not Available,2025
+CRL_019,CMC,NDA,Not Available,Not Available,2024
+CRL_019,Clinical,NDA,Not Available,Not Available,2024
+CRL_020,CMC,NDA,Not Available,Not Available,2024
+CRL_021,CMC,NDA,Not Available,Not Available,2024
+CRL_021,Nonclinical,NDA,Not Available,Not Available,2024
+CRL_022,CMC,NDA,Not Available,Not Available,2024
+CRL_023,CMC,NDA,Not Available,Not Available,2024
+CRL_024,Clinical,NDA,Not Available,Not Available,2025
+CRL_024,Statistics,NDA,Not Available,Not Available,2025
+CRL_025,CMC,NDA,Not Available,Not Available,2025
+CRL_026,CMC,NDA,Not Available,Not Available,2024
+CRL_026,Nonclinical,NDA,Not Available,Not Available,2024
+CRL_026,Regulatory,NDA,Not Available,Not Available,2024
+CRL_027,CMC,NDA,Not Available,Not Available,2024
+CRL_027,Nonclinical,NDA,Not Available,Not Available,2024
+CRL_028,CMC,NDA,Not Available,Not Available,2024
+CRL_028,Clinical,NDA,Not Available,Not Available,2024
+CRL_029,CMC,NDA,Not Available,Not Available,2024
+CRL_029,Clinical,NDA,Not Available,Not Available,2024
+CRL_029,Nonclinical,NDA,Not Available,Not Available,2024
+CRL_030,CMC,NDA,Not Available,Not Available,2024
+CRL_031,CMC,NDA,Not Available,Not Available,2024
+CRL_032,CMC,NDA,Not Available,Not Available,2025
+CRL_033,CMC,NDA,Not Available,Not Available,2024
+CRL_033,Nonclinical,NDA,Not Available,Not Available,2024
+CRL_034,CMC,NDA,Not Available,Not Available,2024
+CRL_034,Clinical,NDA,Not Available,Not Available,2024
+CRL_035,Clinical,NDA,Not Available,Not Available,2025
+CRL_035,Nonclinical,NDA,Not Available,Not Available,2025
+CRL_036,CMC,NDA,Not Available,Not Available,2024
+CRL_036,Clinical,NDA,Not Available,Not Available,2024
+CRL_037,Clinical,NDA,Not Available,Not Available,2024
+CRL_038,CMC,NDA,Not Available,Not Available,2024
+CRL_039,CMC,NDA,Not Available,Not Available,2024
+CRL_039,Clinical,NDA,Not Available,Not Available,2024
+CRL_039,Nonclinical,NDA,Not Available,Not Available,2024
+CRL_040,CMC,NDA,Not Available,Not Available,2024
+CRL_041,Regulatory,NDA,Not Available,Not Available,2025
+CRL_042,Regulatory,NDA,Not Available,Not Available,2024
+CRL_043,Clinical,NDA,Not Available,Not Available,2025
+CRL_043,Statistics,NDA,Not Available,Not Available,2025
+CRL_044,CMC,NDA,Not Available,Not Available,2024
+CRL_044,Clinical,NDA,Not Available,Not Available,2024
+CRL_045,CMC,NDA,Not Available,Not Available,2025
+CRL_045,Nonclinical,NDA,Not Available,Not Available,2025
+CRL_046,CMC,NDA,Not Available,Not Available,2024
+CRL_047,CMC,NDA,Not Available,Not Available,2025
+CRL_048,CMC,NDA,Not Available,Not Available,2024
+CRL_049,Clinical,NDA,Not Available,Not Available,2024
+CRL_049,Statistics,NDA,Not Available,Not Available,2024
+CRL_050,Clinical,NDA,Not Available,Not Available,2024
+CRL_050,Nonclinical,NDA,Not Available,Not Available,2024
+CRL_051,CMC,NDA,Not Available,Not Available,2025
+CRL_051,Clinical,NDA,Not Available,Not Available,2025
+CRL_052,Nonclinical,NDA,Not Available,Not Available,2024
+CRL_053,CMC,NDA,Not Available,Not Available,2024
+CRL_053,Nonclinical,NDA,Not Available,Not Available,2024
+CRL_054,CMC,NDA,Not Available,Not Available,2024
+CRL_054,Clinical,NDA,Not Available,Not Available,2024
+CRL_055,CMC,NDA,Not Available,Not Available,2024
+CRL_056,Clinical,NDA,Not Available,Not Available,2024
+CRL_057,Clinical,NDA,Not Available,Not Available,2025
+CRL_057,Nonclinical,NDA,Not Available,Not Available,2025
+CRL_058,CMC,NDA,Not Available,Not Available,2025
+CRL_059,CMC,NDA,Not Available,Not Available,2024
+CRL_060,CMC,NDA,Not Available,Not Available,2025
+CRL_060,Nonclinical,NDA,Not Available,Not Available,2025
+CRL_061,CMC,NDA,Not Available,Not Available,2025
+CRL_061,Clinical,NDA,Not Available,Not Available,2025
+CRL_062,CMC,NDA,Not Available,Not Available,2025
+CRL_062,Clinical,NDA,Not Available,Not Available,2025
+CRL_063,CMC,BLA,Not Available,Not Available,2025
+CRL_064,CMC,BLA,Not Available,Not Available,2024
+CRL_065,CMC,BLA,Not Available,Not Available,2025
+CRL_066,CMC,BLA,Not Available,Not Available,2025
+CRL_067,CMC,BLA,Not Available,Not Available,2025
+CRL_068,CMC,BLA,Not Available,Not Available,2025
+CRL_069,CMC,BLA,Not Available,Not Available,2024
+CRL_070,CMC,BLA,Not Available,Not Available,2024
+CRL_071,CMC,BLA,Not Available,Not Available,2024
+CRL_072,CMC,BLA,Not Available,Not Available,2024
+CRL_073,CMC,BLA,Not Available,Not Available,2024
+CRL_074,CMC,BLA,Not Available,Not Available,2024
+CRL_074,Clinical,BLA,Not Available,Not Available,2024
+CRL_075,Clinical,BLA,Not Available,Not Available,2025
+CRL_076,CMC,BLA,Not Available,Not Available,2025
+CRL_077,CMC,BLA,Not Available,Not Available,2024
+CRL_078,Regulatory,BLA,Not Available,Not Available,2024
+CRL_079,Regulatory,BLA,Not Available,Not Available,2024
+CRL_080,CMC,BLA,Not Available,Not Available,2025
+CRL_081,CMC,BLA,Not Available,Not Available,2025
+CRL_082,CMC,BLA,Not Available,Not Available,2024
+CRL_083,CMC,BLA,Not Available,Not Available,2025
+CRL_084,CMC,BLA,Not Available,Not Available,2024
+CRL_085,Clinical,BLA,Not Available,Not Available,2025
+CRL_086,CMC,BLA,Not Available,Not Available,2024
+CRL_087,CMC,BLA,Not Available,Not Available,2025
+CRL_088,CMC,BLA,Not Available,Not Available,2024
+CRL_089,CMC,BLA,Not Available,Not Available,2024
+CRL_090,CMC,BLA,Not Available,Not Available,2025
+CRL_091,CMC,BLA,Not Available,Not Available,2025
+CRL_092,CMC,BLA,Not Available,Not Available,2025
+CRL_092,Clinical,BLA,Not Available,Not Available,2025
+CRL_093,Clinical,BLA,Not Available,Not Available,2025
+CRL_094,CMC,BLA,Not Available,Not Available,2024
+CRL_095,CMC,BLA,Not Available,Not Available,2025
+CRL_096,CMC,NDA,"Rare Diseases, Pediatrics, Urologic and Reproductive Medicine",505(b),2023
+CRL_097,CMC,NDA,Drug Evaluation 1,505(b),2007
+CRL_097,Clinical,NDA,Drug Evaluation 1,505(b),2007
+CRL_098,Clinical,NDA,Drug Evaluation 1,505(b),2004
+CRL_099,Clinical,NDA,Drug Evaluation 1,505(b),2002
+CRL_100,Clinical,NDA,Drug Evaluation 1,505(b),2008
+CRL_100,Nonclinical,NDA,Drug Evaluation 1,505(b),2008
+CRL_101,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b),2022
+CRL_102,Clinical,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b),2020
+CRL_103,CMC,NDA,Drug Evaluation 1,505(b),2009
+CRL_103,Clinical,NDA,Drug Evaluation 1,505(b),2009
+CRL_104,CMC,NDA,Specialty Medicine,505(b)(2),2021
+CRL_104,Clinical,NDA,Specialty Medicine,505(b)(2),2021
+CRL_105,Clinical,NDA,Not Available,Not Available,2025
+CRL_106,Clinical,NDA,Not Available,Not Available,2025
+CRL_107,CMC,NDA,Not Available,Not Available,2025
+CRL_107,Nonclinical,NDA,Not Available,Not Available,2025
+CRL_108,CMC,NDA,Drug Evaluation 3,505(b)(2),2010
+CRL_109,Clinical,NDA,Drug Evaluation 2,505(b),2015
+CRL_110,Clinical,NDA,Drug Evaluation 2,505(b)(2),2013
+CRL_111,Clinical,NDA,Drug Evaluation 2,505(b)(2),2010
+CRL_111,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2010
+CRL_112,CMC,NDA,Drug Evaluation 1,505(b),2011
+CRL_112,Clinical,NDA,Drug Evaluation 1,505(b),2011
+CRL_113,Clinical,BLA,Drug Evaluation 2,351(a),2015
+CRL_114,Clinical,NDA,Drug Evaluation 4,505(b)(2),2016
+CRL_115,CMC,NDA,Drug Evaluation 4,505(b)(2),2013
+CRL_115,Clinical,NDA,Drug Evaluation 4,505(b)(2),2013
+CRL_116,CMC,NDA,Drug Evaluation 3,505(b),2016
+CRL_116,Clinical,NDA,Drug Evaluation 3,505(b),2016
+CRL_117,CMC,NDA,Drug Evaluation 3,505(b),2011
+CRL_117,Clinical,NDA,Drug Evaluation 3,505(b),2011
+CRL_118,CMC,NDA,Hematology & Oncology Products,505(b)(2),2013
+CRL_118,Clinical,NDA,Hematology & Oncology Products,505(b)(2),2013
+CRL_119,Clinical,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_120,CMC,NDA,Drug Evaluation 2,505(b)(2),2013
+CRL_120,Clinical,NDA,Drug Evaluation 2,505(b)(2),2013
+CRL_121,CMC,NDA,Drug Evaluation 4,505(b)(2),2013
+CRL_121,Clinical,NDA,Drug Evaluation 4,505(b)(2),2013
+CRL_121,Regulatory,NDA,Drug Evaluation 4,505(b)(2),2013
+CRL_122,CMC,NDA,Drug Evaluation 1,505(b)(2),2019
+CRL_122,Clinical,NDA,Drug Evaluation 1,505(b)(2),2019
+CRL_123,CMC,NDA,Drug Evaluation 1,505(b)(2),2013
+CRL_123,Patent Certifications,NDA,Drug Evaluation 1,505(b)(2),2013
+CRL_124,CMC,NDA,Drug Evaluation 1,505(b),2012
+CRL_125,CMC,NDA,Drug Evaluation 3,505(b)(2),2017
+CRL_125,Clinical,NDA,Drug Evaluation 3,505(b)(2),2017
+CRL_126,Clinical,NDA,Drug Evaluation 3,505(b)(2),2013
+CRL_127,CMC,NDA,Drug Evaluation 3,505(b)(2),2013
+CRL_127,Clinical,NDA,Drug Evaluation 3,505(b)(2),2013
+CRL_128,CMC,NDA,Infectious Diseases,505(b)(2),2023
+CRL_129,CMC,NDA,Antimicrobial Products,505(b)(2),2019
+CRL_130,CMC,NDA,Drug Evaluation 1,505(b)(2),2017
+CRL_131,CMC,NDA,Drug Evaluation 1,505(b)(2),2015
+CRL_132,Clinical,NDA,Drug Evaluation 1,505(b)(2),2013
+CRL_133,Nonclinical,NDA,Infectious Diseases,505(b)(2),2021
+CRL_134,CMC,NDA,Infectious Diseases,505(b)(2),2019
+CRL_134,Nonclinical,NDA,Infectious Diseases,505(b)(2),2019
+CRL_135,CMC,NDA,Antimicrobial Products,505(b)(2),2018
+CRL_135,Clinical,NDA,Antimicrobial Products,505(b)(2),2018
+CRL_135,Nonclinical,NDA,Antimicrobial Products,505(b)(2),2018
+CRL_136,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2023
+CRL_137,CMC,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_138,CMC,NDA,New Drugs,505(b)(2),2019
+CRL_138,Clinical,NDA,New Drugs,505(b)(2),2019
+CRL_138,Patent Certifications,NDA,New Drugs,505(b)(2),2019
+CRL_139,CMC,NDA,Neuroscience,505(b),2020
+CRL_140,Clinical,NDA,Drug Evaluation 1,505(b),2019
+CRL_141,Nonclinical,NDA,Neuroscience,505(b)(2),2020
+CRL_142,CMC,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_142,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_143,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_143,Clinical,NDA,Neuroscience,505(b)(2),2020
+CRL_143,Nonclinical,NDA,Neuroscience,505(b)(2),2020
+CRL_144,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2024
+CRL_145,Clinical,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_146,CMC,NDA,Infectious Diseases,505(b)(2),2020
+CRL_146,Nonclinical,NDA,Infectious Diseases,505(b)(2),2020
+CRL_147,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_148,CMC,NDA,Immunology and Inflammation,505(b)(2),2021
+CRL_149,CMC,NDA,Oncologic Diseases,505(b)(2),2020
+CRL_150,CMC,NDA,Hematology & Oncology Products,505(b)(2),2019
+CRL_151,CMC,NDA,Oncologic Diseases,505(b)(2),2023
+CRL_152,CMC,NDA,Oncologic Diseases,505(b)(2),2020
+CRL_152,Clinical,NDA,Oncologic Diseases,505(b)(2),2020
+CRL_153,CMC,NDA,Neuroscience,505(b)(2),2022
+CRL_153,Clinical,NDA,Neuroscience,505(b)(2),2022
+CRL_154,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_154,Clinical,NDA,Neuroscience,505(b)(2),2020
+CRL_155,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_155,Clinical,NDA,Neuroscience,505(b)(2),2020
+CRL_156,CMC,NDA,Neuroscience,505(b)(2),2019
+CRL_156,Clinical,NDA,Neuroscience,505(b)(2),2019
+CRL_156,Nonclinical,NDA,Neuroscience,505(b)(2),2019
+CRL_157,CMC,NDA,Infectious Diseases,505(b),2019
+CRL_158,CMC,NDA,Infectious Diseases,505(b),2019
+CRL_159,CMC,NDA,Hematology & Oncology Products,505(b),2013
+CRL_159,Clinical,NDA,Hematology & Oncology Products,505(b),2013
+CRL_160,CMC,NDA,Immunology and Inflammation,505(b),2022
+CRL_161,CMC,NDA,Immunology and Inflammation,505(b),2021
+CRL_162,CMC,NDA,Immunology and Inflammation,505(b),2020
+CRL_162,Clinical,NDA,Immunology and Inflammation,505(b),2020
+CRL_163,CMC,NDA,Oncologic Diseases,505(b)(2),2021
+CRL_163,Clinical,NDA,Oncologic Diseases,505(b)(2),2021
+CRL_164,CMC,NDA,Oncologic Diseases,505(b)(2),2020
+CRL_165,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2020
+CRL_166,CMC,NDA,Drug Evaluation 2,505(b)(2),2020
+CRL_167,CMC,NDA,Drug Evaluation 1,505(b)(2),2020
+CRL_168,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2020
+CRL_168,Clinical,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2020
+CRL_169,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_170,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_170,Regulatory,NDA,Neuroscience,505(b)(2),2020
+CRL_171,CMC,NDA,Immunology and Inflammation,505(b)(2),2020
+CRL_172,Clinical,NDA,Neuroscience,505(b)(2),2022
+CRL_172,Regulatory,NDA,Neuroscience,505(b)(2),2022
+CRL_173,CMC,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_173,Patent Certifications,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_173,Regulatory,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_174,CMC,NDA,Drug Evaluation 1,505(b)(2),2019
+CRL_174,Regulatory,NDA,Drug Evaluation 1,505(b)(2),2019
+CRL_175,CMC,NDA,Specialty Medicine,505(b)(2),2020
+CRL_176,Clinical,NDA,Drug Evaluation 1,505(b),2019
+CRL_177,CMC,NDA,New Drugs,505(b)(2),2019
+CRL_178,Clinical,NDA,New Drugs,505(b)(2),2019
+CRL_179,CMC,NDA,Drug Evaluation 2,505(b),2018
+CRL_180,CMC,NDA,Drug Evaluation 1,505(b)(2),2019
+CRL_180,Clinical,NDA,Drug Evaluation 1,505(b)(2),2019
+CRL_181,CMC,NDA,Neuroscience,505(b)(2),2019
+CRL_181,Patent Certifications,NDA,Neuroscience,505(b)(2),2019
+CRL_181,Regulatory,NDA,Neuroscience,505(b)(2),2019
+CRL_182,CMC,NDA,Oncologic Diseases,505(b)(2),2022
+CRL_183,CMC,NDA,Oncologic Diseases,505(b)(2),2020
+CRL_184,CMC,NDA,Oncologic Diseases,505(b)(2),2020
+CRL_185,CMC,NDA,Oncologic Diseases,505(b)(2),2019
+CRL_186,CMC,NDA,Hematology & Oncology Products,505(b)(2),2019
+CRL_187,CMC,NDA,Hematology & Oncology Products,505(b)(2),2018
+CRL_188,CMC,NDA,New Drugs,505(b)(2),2018
+CRL_189,CMC,NDA,Hematology & Oncology Products,505(b)(2),2019
+CRL_189,Regulatory,NDA,Hematology & Oncology Products,505(b)(2),2019
+CRL_190,CMC,NDA,Hematology & Oncology Products,505(b)(2),2019
+CRL_190,Regulatory,NDA,Hematology & Oncology Products,505(b)(2),2019
+CRL_191,CMC,NDA,Hematology & Oncology Products,505(b)(2),2018
+CRL_191,Nonclinical,NDA,Hematology & Oncology Products,505(b)(2),2018
+CRL_192,CMC,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_192,Clinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_192,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_192,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_193,CMC,NDA,Antimicrobial Products,505(b)(2),2018
+CRL_194,CMC,NDA,Antimicrobial Products,505(b)(2),2018
+CRL_195,CMC,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_195,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_196,CMC,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_196,Clinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_196,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_197,Clinical,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_197,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_198,CMC,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_198,Clinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_198,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_199,CMC,NDA,Neuroscience,505(b)(2),2021
+CRL_200,CMC,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_200,Patent Certifications,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_200,Regulatory,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_201,CMC,NDA,Antimicrobial Products,505(b)(2),2018
+CRL_202,CMC,NDA,Infectious Diseases,505(b)(2),2021
+CRL_202,Regulatory,NDA,Infectious Diseases,505(b)(2),2021
+CRL_203,CMC,NDA,Infectious Diseases,505(b)(2),2020
+CRL_203,Regulatory,NDA,Infectious Diseases,505(b)(2),2020
+CRL_204,CMC,NDA,Antimicrobial Products,505(b)(2),2018
+CRL_205,CMC,NDA,Neuroscience,505(b)(2),2021
+CRL_206,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_206,Regulatory,NDA,Neuroscience,505(b)(2),2020
+CRL_207,CMC,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_207,Clinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_207,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_207,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_208,CMC,NDA,Hematology & Oncology Products,505(b)(2),2017
+CRL_208,Clinical,NDA,Hematology & Oncology Products,505(b)(2),2017
+CRL_208,Nonclinical,NDA,Hematology & Oncology Products,505(b)(2),2017
+CRL_209,Clinical,NDA,Drug Evaluation 3,505(b)(2),2017
+CRL_210,Clinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_210,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_210,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_211,CMC,NDA,Drug Evaluation 3,505(b),2017
+CRL_212,CMC,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_212,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_213,CMC,NDA,Drug Evaluation 3,505(b)(2),2019
+CRL_214,CMC,NDA,Drug Evaluation 3,505(b)(2),2018
+CRL_214,Regulatory,NDA,Drug Evaluation 3,505(b)(2),2018
+CRL_215,CMC,NDA,Drug Evaluation 3,505(b)(2),2019
+CRL_215,Clinical,NDA,Drug Evaluation 3,505(b)(2),2019
+CRL_216,Nonclinical,NDA,Drug Evaluation 3,505(b)(2),2018
+CRL_217,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2020
+CRL_217,Clinical,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2020
+CRL_217,Regulatory,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2020
+CRL_218,CMC,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_218,Clinical,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_218,Regulatory,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_219,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_219,Regulatory,NDA,Neuroscience,505(b)(2),2020
+CRL_220,CMC,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_220,Clinical,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_220,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_220,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_220,Statistics,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_221,CMC,NDA,Immunology and Inflammation,505(b)(2),2021
+CRL_221,Clinical,NDA,Immunology and Inflammation,505(b)(2),2021
+CRL_222,Nonclinical,NDA,Infectious Diseases,505(b)(2),2021
+CRL_223,CMC,NDA,Infectious Diseases,505(b)(2),2020
+CRL_223,Nonclinical,NDA,Infectious Diseases,505(b)(2),2020
+CRL_224,Nonclinical,NDA,Neuroscience,505(b)(2),2022
+CRL_225,CMC,NDA,Immunology and Inflammation,505(b),2022
+CRL_225,Regulatory,NDA,Immunology and Inflammation,505(b),2022
+CRL_226,CMC,NDA,Specialty Medicine,505(b)(2),2021
+CRL_226,Clinical,NDA,Specialty Medicine,505(b)(2),2021
+CRL_226,Regulatory,NDA,Specialty Medicine,505(b)(2),2021
+CRL_227,Clinical,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b),2022
+CRL_228,CMC,NDA,Neuroscience,505(b)(2),2023
+CRL_229,CMC,NDA,Infectious Diseases,505(b),2022
+CRL_230,Regulatory,NDA,Infectious Diseases,505(b),2022
+CRL_231,CMC,NDA,Neuroscience,505(b)(2),2024
+CRL_231,Nonclinical,NDA,Neuroscience,505(b)(2),2024
+CRL_232,Regulatory,NDA,Immunology and Inflammation,505(b)(2),2023
+CRL_233,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b),2023
+CRL_234,CMC,NDA,Immunology and Inflammation,505(b)(2),2022
+CRL_234,Regulatory,NDA,Immunology and Inflammation,505(b)(2),2022
+CRL_235,CMC,NDA,Neuroscience,505(b)(2),2024
+CRL_236,CMC,NDA,Neuroscience,505(b)(2),2023
+CRL_236,Clinical,NDA,Neuroscience,505(b)(2),2023
+CRL_236,Regulatory,NDA,Neuroscience,505(b)(2),2023
+CRL_237,Nonclinical,NDA,Neuroscience,505(b)(2),2023
+CRL_238,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2023
+CRL_239,Clinical,NDA,Specialty Medicine,505(b),2024
+CRL_240,Clinical,NDA,Immunology and Inflammation,505(b),2023
+CRL_241,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2024
+CRL_242,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2024
+CRL_243,CMC,BLA,Hematology & Oncology Products,351(k),2017
+CRL_243,Clinical,BLA,Hematology & Oncology Products,351(k),2017
+CRL_244,CMC,BLA,Hematology & Oncology Products,351(k),2016
+CRL_244,Clinical,BLA,Hematology & Oncology Products,351(k),2016
+CRL_245,Clinical,BLA,Drug Evaluation 3,351(a),2017
+CRL_246,CMC,BLA,Drug Evaluation 2,351(k),2018
+CRL_247,CMC,BLA,Hematology & Oncology Products,351(k),2018
+CRL_248,CMC,BLA,Hematology & Oncology Products,351(k),2018
+CRL_249,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(k),2021
+CRL_250,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(k),2020
+CRL_251,CMC,BLA,Hematology & Oncology Products,351(k),2019
+CRL_251,Statistics,BLA,Hematology & Oncology Products,351(k),2019
+CRL_252,CMC,BLA,Hematology & Oncology Products,351(k),2018
+CRL_252,Statistics,BLA,Hematology & Oncology Products,351(k),2018
+CRL_253,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(k),2021
+CRL_254,CMC,BLA,Drug Evaluation 3,351(a),2018
+CRL_254,Regulatory,BLA,Drug Evaluation 3,351(a),2018
+CRL_255,CMC,BLA,Hematology & Oncology Products,351(k),2018
+CRL_255,Clinical,BLA,Hematology & Oncology Products,351(k),2018
+CRL_256,CMC,BLA,Hematology & Oncology Products,351(k),2018
+CRL_257,CMC,BLA,Hematology & Oncology Products,351(a),2019
+CRL_258,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(k),2023
+CRL_259,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(k),2021
+CRL_260,CMC,BLA,Hematology & Oncology Products,351(k),2019
+CRL_260,Nonclinical,BLA,Hematology & Oncology Products,351(k),2019
+CRL_261,CMC,BLA,Immunology and Inflammation,351(a),2021
+CRL_262,CMC,BLA,Drug Evaluation 3,351(a),2019
+CRL_262,Clinical,BLA,Drug Evaluation 3,351(a),2019
+CRL_262,Regulatory,BLA,Drug Evaluation 3,351(a),2019
+CRL_263,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2021
+CRL_264,CMC,BLA,Immunology and Inflammation,351(a),2022
+CRL_265,CMC,BLA,"Rare Diseases, Pediatrics, Urologic and Reproductive Medicine",351(a),2021
+CRL_265,Regulatory,BLA,"Rare Diseases, Pediatrics, Urologic and Reproductive Medicine",351(a),2021
+CRL_266,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2020
+CRL_266,Regulatory,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2020
+CRL_267,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2021
+CRL_267,Clinical,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2021
+CRL_268,CMC,BLA,Immunology and Inflammation,351(a),2021
+CRL_269,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2021
+CRL_269,Clinical,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2021
+CRL_270,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2022
+CRL_270,Clinical,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2022
+CRL_271,CMC,BLA,Immunology and Inflammation,351(a),2021
+CRL_272,CMC,BLA,Oncologic Diseases,351(k),2021
+CRL_272,Clinical,BLA,Oncologic Diseases,351(k),2021
+CRL_273,Regulatory,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(k),2021
+CRL_274,CMC,BLA,Immunology and Inflammation,351(k),2022
+CRL_275,CMC,BLA,Immunology and Inflammation,351(k),2021
+CRL_276,CMC,BLA,Immunology and Inflammation,351(a),2023
+CRL_277,CMC,BLA,Immunology and Inflammation,351(a),2022
+CRL_278,CMC,BLA,Oncologic Diseases,351(a),2022
+CRL_279,Clinical,BLA,Neuroscience,351(a),2023
+CRL_280,CMC,BLA,Oncologic Diseases,351(a),2024
+CRL_280,Clinical,BLA,Oncologic Diseases,351(a),2024
+CRL_280,Regulatory,BLA,Oncologic Diseases,351(a),2024
+CRL_281,CMC,BLA,Immunology and Inflammation,351(k),2023
+CRL_282,CMC,BLA,Immunology and Inflammation,351(a),2023
+CRL_283,CMC,BLA,Oncologic Diseases,351(a),2023
+CRL_284,CMC,BLA,Immunology and Inflammation,351(k),2023
+CRL_284,Regulatory,BLA,Immunology and Inflammation,351(k),2023
+CRL_285,CMC,BLA,Immunology and Inflammation,351(k),2022
+CRL_285,Regulatory,BLA,Immunology and Inflammation,351(k),2022
+CRL_286,CMC,BLA,Immunology and Inflammation,351(a),2023
+CRL_287,CMC,BLA,Oncologic Diseases,351(a),2023
+CRL_288,CMC,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2023
+CRL_288,Clinical,BLA,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),2023
+CRL_289,CMC,BLA,Immunology and Inflammation,351(k),2024
+CRL_290,CMC,BLA,Immunology and Inflammation,351(k),2023
+CRL_291,CMC,BLA,Specialty Medicine,351(a),2023
+CRL_292,CMC,BLA,Oncologic Diseases,351(a),2024
+CRL_293,CMC,BLA,Immunology and Inflammation,351(a),2024
+CRL_294,CMC,NDA,Neuroscience,505(b)(2),2023
+CRL_294,Regulatory,NDA,Neuroscience,505(b)(2),2023
+CRL_295,CMC,NDA,Neuroscience,505(b)(2),2022
+CRL_295,Clinical,NDA,Neuroscience,505(b)(2),2022
+CRL_295,Regulatory,NDA,Neuroscience,505(b)(2),2022
+CRL_296,CMC,NDA,Neuroscience,505(b)(2),2021
+CRL_296,Clinical,NDA,Neuroscience,505(b)(2),2021
+CRL_296,Nonclinical,NDA,Neuroscience,505(b)(2),2021
+CRL_297,Clinical,NDA,Drug Evaluation 2,505(b)(2),2014
+CRL_298,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_299,CMC,NDA,Hematology & Oncology Products,505(b)(2),2015
+CRL_299,Nonclinical,NDA,Hematology & Oncology Products,505(b)(2),2015
+CRL_299,Regulatory,NDA,Hematology & Oncology Products,505(b)(2),2015
+CRL_300,CMC,NDA,Drug Evaluation 1,505(b)(2),2014
+CRL_300,Patent Certifications,NDA,Drug Evaluation 1,505(b)(2),2014
+CRL_300,Regulatory,NDA,Drug Evaluation 1,505(b)(2),2014
+CRL_301,Clinical,NDA,Drug Evaluation 4,505(b)(2),2016
+CRL_302,Clinical,NDA,Drug Evaluation 3,505(b)(2),2018
+CRL_302,Nonclinical,NDA,Drug Evaluation 3,505(b)(2),2018
+CRL_303,CMC,NDA,Antimicrobial Products,505(b)(2),2016
+CRL_304,CMC,NDA,Antimicrobial Products,505(b)(2),2014
+CRL_304,Regulatory,NDA,Antimicrobial Products,505(b)(2),2014
+CRL_305,CMC,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_305,Patent Certifications,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_305,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_306,CMC,NDA,Hematology & Oncology Products,505(b)(2),2016
+CRL_307,CMC,NDA,Hematology & Oncology Products,505(b)(2),2014
+CRL_308,CMC,NDA,Drug Evaluation 3,505(b),2016
+CRL_309,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_309,Nonclinical,NDA,Neuroscience,505(b)(2),2020
+CRL_309,Regulatory,NDA,Neuroscience,505(b)(2),2020
+CRL_310,CMC,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_310,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_310,Patent Certifications,NDA,Drug Evaluation 2,505(b)(2),2018
+CRL_311,CMC,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_311,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_311,Patent Certifications,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_312,CMC,NDA,Drug Evaluation 2,505(b)(2),2015
+CRL_312,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2015
+CRL_313,CMC,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_313,Clinical,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_313,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_314,CMC,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_314,Clinical,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_314,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_314,Patent Certifications,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_314,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_315,CMC,NDA,Drug Evaluation 1,505(b)(2),2015
+CRL_315,Clinical,NDA,Drug Evaluation 1,505(b)(2),2015
+CRL_315,Regulatory,NDA,Drug Evaluation 1,505(b)(2),2015
+CRL_316,CMC,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_317,CMC,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_317,Nonclinical,NDA,Drug Evaluation 1,505(b)(2),2018
+CRL_318,CMC,NDA,Drug Evaluation 1,505(b)(2),2017
+CRL_318,Regulatory,NDA,Drug Evaluation 1,505(b)(2),2017
+CRL_319,CMC,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_319,Clinical,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_320,Clinical,NDA,Drug Evaluation 1,505(b),2017
+CRL_321,CMC,NDA,Drug Evaluation 1,505(b),2016
+CRL_321,Regulatory,NDA,Drug Evaluation 1,505(b),2016
+CRL_322,CMC,NDA,Drug Evaluation 4,505(b)(2),2017
+CRL_322,Nonclinical,NDA,Drug Evaluation 4,505(b)(2),2017
+CRL_323,CMC,NDA,Drug Evaluation 4,505(b)(2),2016
+CRL_323,Clinical,NDA,Drug Evaluation 4,505(b)(2),2016
+CRL_323,Nonclinical,NDA,Drug Evaluation 4,505(b)(2),2016
+CRL_323,Regulatory,NDA,Drug Evaluation 4,505(b)(2),2016
+CRL_324,CMC,NDA,Hematology & Oncology Products,505(b)(2),2017
+CRL_324,Regulatory,NDA,Hematology & Oncology Products,505(b)(2),2017
+CRL_325,CMC,NDA,Hematology & Oncology Products,505(b)(2),2015
+CRL_325,Clinical,NDA,Hematology & Oncology Products,505(b)(2),2015
+CRL_326,CMC,NDA,Drug Evaluation 3,505(b)(2),2016
+CRL_326,Clinical,NDA,Drug Evaluation 3,505(b)(2),2016
+CRL_326,Nonclinical,NDA,Drug Evaluation 3,505(b)(2),2016
+CRL_327,CMC,NDA,Hematology & Oncology Products,505(b)(2),2018
+CRL_328,CMC,NDA,Hematology & Oncology Products,505(b)(2),2017
+CRL_329,Clinical,NDA,Drug Evaluation 3,505(b)(2),2017
+CRL_330,CMC,NDA,Hematology & Oncology Products,505(b)(2),2019
+CRL_331,CMC,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_332,CMC,NDA,Antimicrobial Products,505(b)(2),2017
+CRL_333,CMC,NDA,Antimicrobial Products,505(b)(2),2016
+CRL_334,CMC,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_334,Clinical,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_335,Clinical,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_336,CMC,NDA,Hematology & Oncology Products,505(b)(2),2018
+CRL_337,CMC,NDA,Hematology & Oncology Products,505(b)(2),2017
+CRL_338,Clinical,NDA,Drug Evaluation 1,505(b)(2),2017
+CRL_339,Clinical,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b),2021
+CRL_340,Clinical,NDA,"Rare Diseases, Pediatrics, Urologic and Reproductive Medicine",505(b)(2),2021
+CRL_341,Clinical,NDA,Infectious Diseases,505(b)(2),2021
+CRL_341,Regulatory,NDA,Infectious Diseases,505(b)(2),2021
+CRL_342,Clinical,NDA,Immunology and Inflammation,505(b)(2),2021
+CRL_343,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b),2020
+CRL_344,CMC,NDA,Neuroscience,505(b)(2),2021
+CRL_345,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b),2021
+CRL_346,CMC,NDA,Specialty Medicine,505(b)(2),2021
+CRL_347,Clinical,NDA,Infectious Diseases,505(b),2020
+CRL_348,Regulatory,NDA,Infectious Diseases,505(b),2020
+CRL_349,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2021
+CRL_350,CMC,NDA,Infectious Diseases,505(b),2022
+CRL_351,CMC,NDA,Infectious Diseases,505(b),2021
+CRL_352,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2021
+CRL_353,CMC,NDA,Immunology and Inflammation,505(b)(2),2021
+CRL_354,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2021
+CRL_355,CMC,NDA,Immunology and Inflammation,505(b)(2),2023
+CRL_355,Clinical,NDA,Immunology and Inflammation,505(b)(2),2023
+CRL_356,Clinical,NDA,Oncologic Diseases,505(b),2021
+CRL_356,Statistics,NDA,Oncologic Diseases,505(b),2021
+CRL_357,CMC,NDA,"Rare Diseases, Pediatrics, Urologic and Reproductive Medicine",505(b)(2),2022
+CRL_358,Clinical,NDA,"Rare Diseases, Pediatrics, Urologic and Reproductive Medicine",505(b),2021
+CRL_359,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2022
+CRL_360,CMC,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),2021
+CRL_361,CMC,NDA,Oncologic Diseases,505(b)(2),2021
+CRL_362,Clinical,NDA,Immunology and Inflammation,505(b)(2),2023
+CRL_362,Regulatory,NDA,Immunology and Inflammation,505(b)(2),2023
+CRL_363,Clinical,NDA,Immunology and Inflammation,505(b),2022
+CRL_364,CMC,NDA,Specialty Medicine,505(b),2021
+CRL_364,Clinical,NDA,Specialty Medicine,505(b),2021
+CRL_365,CMC,NDA,Immunology and Inflammation,505(b),2023
+CRL_366,CMC,NDA,Oncologic Diseases,505(b)(2),2022
+CRL_367,CMC,NDA,Oncologic Diseases,505(b)(2),2021
+CRL_367,Regulatory,NDA,Oncologic Diseases,505(b)(2),2021
+CRL_368,Clinical,NDA,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b),2022
+CRL_369,CMC,NDA,Infectious Diseases,505(b)(2),2021
+CRL_369,Nonclinical,NDA,Infectious Diseases,505(b)(2),2021
+CRL_370,Clinical,NDA,Not Available,Not Available,2026
+CRL_371,CMC,NDA,Not Available,Not Available,2025
+CRL_371,Nonclinical,NDA,Not Available,Not Available,2025
+CRL_372,CMC,NDA,Drug Evaluation 1,505(b)(2),2019
+CRL_372,Clinical,NDA,Drug Evaluation 1,505(b)(2),2019
+CRL_373,CMC,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_373,Patent Certifications,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_373,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2019
+CRL_374,CMC,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_374,Regulatory,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_375,CMC,NDA,Drug Evaluation 1,505(b)(2),2019
+CRL_375,Regulatory,NDA,Drug Evaluation 1,505(b)(2),2019
+CRL_376,CMC,NDA,Neuroscience,505(b)(2),2020
+CRL_376,Regulatory,NDA,Neuroscience,505(b)(2),2020
+CRL_377,CMC,NDA,Drug Evaluation 4,505(b)(2),2014
+CRL_377,Clinical,NDA,Drug Evaluation 4,505(b)(2),2014
+CRL_377,Nonclinical,NDA,Drug Evaluation 4,505(b)(2),2014
+CRL_378,Clinical,NDA,Drug Evaluation 4,505(b)(2),2016
+CRL_379,Clinical,NDA,Drug Evaluation 3,505(b)(2),2014
+CRL_380,CMC,NDA,Antimicrobial Products,505(b)(2),2015
+CRL_381,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_382,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2017
+CRL_383,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2016
+CRL_384,Nonclinical,NDA,Drug Evaluation 2,505(b)(2),2015
+CRL_385,CMC,NDA,Hematology & Oncology Products,505(b)(2),2017
+CRL_386,CMC,NDA,Hematology & Oncology Products,505(b)(2),2016
+CRL_386,Regulatory,NDA,Hematology & Oncology Products,505(b)(2),2016
+CRL_387,CMC,NDA,Antimicrobial Products,505(b)(2),2016
+CRL_388,CMC,NDA,Antimicrobial Products,505(b)(2),2014
+CRL_389,Clinical,BLA,Not Available,Not Available,2025
+CRL_390,CMC,BLA,Not Available,Not Available,2025
+CRL_391,Clinical,BLA,Not Available,Not Available,2025
+CRL_392,CMC,BLA,Not Available,Not Available,2025
+CRL_393,Clinical,BLA,Not Available,351(a),2025
+CRL_394,Statistics,BLA,Not Available,Not Available,2025
+CRL_395,Clinical,BLA,Not Available,Not Available,2025
+CRL_396,CMC,BLA,Not Available,Not Available,2025
+CRL_397,CMC,BLA,Not Available,Not Available,2025
+CRL_398,CMC,BLA,Not Available,Not Available,2025
+CRL_399,CMC,NDA,Not Available,Not Available,2025
+CRL_400,CMC,NDA,Not Available,Not Available,2025
+CRL_400,Clinical,NDA,Not Available,Not Available,2025
+CRL_401,CMC,NDA,Not Available,Not Available,2025
