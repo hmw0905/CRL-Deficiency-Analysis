@@ -360,8 +360,8 @@ CRL_156,CMC,Manufacturing Controls,0,NDA,"Naloxone HCl Injection, 5 mg/0.5 mL.",
 CRL_156,Clinical,Pharmacology,0,NDA,"Naloxone HCl Injection, 5 mg/0.5 mL.",Adamis Pharmaceuticals Corporation,Neuroscience,505(b)(2),11/22/2019,2019,Y,212854,0
 CRL_156,CMC,Specifications,0,NDA,"Naloxone HCl Injection, 5 mg/0.5 mL.",Adamis Pharmaceuticals Corporation,Neuroscience,505(b)(2),11/22/2019,2019,Y,212854,0
 CRL_156,CMC,Stability,0,NDA,"Naloxone HCl Injection, 5 mg/0.5 mL.",Adamis Pharmaceuticals Corporation,Neuroscience,505(b)(2),11/22/2019,2019,Y,212854,0
-CRL_157,CMC,Redacted,1,NDA,VOCABRIA® (cabotegravir) 30 mg tablets,ViiV Healthcare Company,Infectious Diseases,505(b),12/19/2019,2019,Y,212887,0
-CRL_158,CMC,Facility,0,NDA,CABENUVA® (cabotegravir extended release injectable suspension + rilpivirine extended release injectable suspension) 600 mg/900 mg co-pack,ViiV Healthcare Company,Infectious Diseases,505(b),12/19/2019,2019,Y,212888,0
+CRL_157,CMC,Redacted,1,NDA,VOCABRIAÂ® (cabotegravir) 30 mg tablets,ViiV Healthcare Company,Infectious Diseases,505(b),12/19/2019,2019,Y,212887,0
+CRL_158,CMC,Facility,0,NDA,CABENUVAÂ® (cabotegravir extended release injectable suspension + rilpivirine extended release injectable suspension) 600 mg/900 mg co-pack,ViiV Healthcare Company,Infectious Diseases,505(b),12/19/2019,2019,Y,212888,0
 CRL_159,Clinical,Risk-Benefit,0,NDA,"(tivozanib hydrochloride) capsules, 1.0 mg or 1.5 mg","AVEO Pharmaceuticals, Inc.",Hematology & Oncology Products,505(b),6/6/2013,2013,Y,212904,0
 CRL_159,CMC,Specifications,0,NDA,"(tivozanib hydrochloride) capsules, 1.0 mg or 1.5 mg","AVEO Pharmaceuticals, Inc.",Hematology & Oncology Products,505(b),6/6/2013,2013,Y,212904,0
 CRL_160,CMC,Facility,0,NDA,Cantharidin Topical Solution,Verrica Pharmaceuticals Inc,Immunology and Inflammation,505(b),5/23/2022,2022,Y,212905,0
@@ -410,23 +410,23 @@ CRL_181,Regulatory,Labeling,0,NDA,"Sesquient (fosphenytoin sodium) injection, 10
 CRL_181,CMC,Manufacturing Controls,0,NDA,"Sesquient (fosphenytoin sodium) injection, 100 mg and 500 mg phenytoin sodium equivalents/ml","Sedor Pharmaceuticals, LLC",Neuroscience,505(b)(2),12/20/2019,2019,Y,210864,0
 CRL_181,Patent Certifications,Patent,0,NDA,"Sesquient (fosphenytoin sodium) injection, 100 mg and 500 mg phenytoin sodium equivalents/ml","Sedor Pharmaceuticals, LLC",Neuroscience,505(b)(2),12/20/2019,2019,Y,210864,0
 CRL_182,CMC,Facility,0,NDA,"Cyclophosphamide Injection, 500mg/mL, 1g/2mL, and
-2g/4mL","Dr. Reddy’s Laboratories Limited
-c/o Dr. Reddy’s Laboratories, Inc.",Oncologic Diseases,505(b)(2),4/18/2022,2022,Y,210852,0
+2g/4mL","Dr. ReddyÂ’s Laboratories Limited
+c/o Dr. ReddyÂ’s Laboratories, Inc.",Oncologic Diseases,505(b)(2),4/18/2022,2022,Y,210852,0
 CRL_183,CMC,Facility,0,NDA,"Cyclophosphamide Injection, 500mg/mL, 1g/2mL, and
-2g/4mL","Dr. Reddy’s Laboratories Limited
-c/o Dr. Reddy’s Laboratories, Inc.",Oncologic Diseases,505(b)(2),11/6/2020,2020,Y,210852,0
+2g/4mL","Dr. ReddyÂ’s Laboratories Limited
+c/o Dr. ReddyÂ’s Laboratories, Inc.",Oncologic Diseases,505(b)(2),11/6/2020,2020,Y,210852,0
 CRL_184,CMC,Facility,0,NDA,"Cyclophosphamide Injection, 500mg/mL, 1g/2mL, and
-2g/4mL","Dr. Reddy’s Laboratories Limited
-c/o Dr. Reddy’s Laboratories, Inc.",Oncologic Diseases,505(b)(2),5/21/2020,2020,Y,210852,0
+2g/4mL","Dr. ReddyÂ’s Laboratories Limited
+c/o Dr. ReddyÂ’s Laboratories, Inc.",Oncologic Diseases,505(b)(2),5/21/2020,2020,Y,210852,0
 CRL_185,CMC,Facility,0,NDA,"Cyclophosphamide Injection, 500mg/mL, 1g/2mL, and
-2g/4mL","Dr. Reddy’s Laboratories Limited
-c/o Dr. Reddy’s Laboratories, Inc.",Oncologic Diseases,505(b)(2),11/20/2019,2019,Y,210852,0
+2g/4mL","Dr. ReddyÂ’s Laboratories Limited
+c/o Dr. ReddyÂ’s Laboratories, Inc.",Oncologic Diseases,505(b)(2),11/20/2019,2019,Y,210852,0
 CRL_186,CMC,Facility,0,NDA,"Cyclophosphamide Injection, 500mg/mL, 1g/2mL, and
-2g/4mL","Dr. Reddy’s Laboratories Limited
-c/o Dr. Reddy’s Laboratories, Inc.",Hematology & Oncology Products,505(b)(2),5/3/2019,2019,Y,210852,0
+2g/4mL","Dr. ReddyÂ’s Laboratories Limited
+c/o Dr. ReddyÂ’s Laboratories, Inc.",Hematology & Oncology Products,505(b)(2),5/3/2019,2019,Y,210852,0
 CRL_187,CMC,Facility,0,NDA,"Cyclophosphamide Injection, 500mg/mL, 1g/2mL, and
-2g/4mL","Dr. Reddy’s Laboratories Limited
-c/o Dr. Reddy’s Laboratories, Inc.",Hematology & Oncology Products,505(b)(2),7/24/2018,2018,Y,210852,0
+2g/4mL","Dr. ReddyÂ’s Laboratories Limited
+c/o Dr. ReddyÂ’s Laboratories, Inc.",Hematology & Oncology Products,505(b)(2),7/24/2018,2018,Y,210852,0
 CRL_188,CMC,Facility,0,NDA,"tetracaine hydrochloride ophthalmic solution, 0.5%.",Valeant Pharmaceuticals Ireland c/o Paragon BioTeck Inc.,New Drugs,505(b)(2),11/20/2018,2018,Y,210821,0
 CRL_189,CMC,Facility,0,NDA,"Cyclophosphamide Injection, 500 mg/2.5 mL and 1 g/5 mL.",AuroMedics Pharma LLC,Hematology & Oncology Products,505(b)(2),10/1/2019,2019,Y,210735,0
 CRL_189,Regulatory,Labeling,0,NDA,"Cyclophosphamide Injection, 500 mg/2.5 mL and 1 g/5 mL.",AuroMedics Pharma LLC,Hematology & Oncology Products,505(b)(2),10/1/2019,2019,Y,210735,0
@@ -505,15 +505,15 @@ CRL_214,Regulatory,Labeling,0,NDA,"Barhemsys (amisulpride) injection, 5 mg/2 mL.
 CRL_215,Clinical,Pharmacology,0,NDA,Gimoti (metoclopramide nasal spray).,"Evoke Pharma, Inc.",Drug Evaluation 3,505(b)(2),4/1/2019,2019,Y,209388,0
 CRL_215,CMC,Specifications,0,NDA,Gimoti (metoclopramide nasal spray).,"Evoke Pharma, Inc.",Drug Evaluation 3,505(b)(2),4/1/2019,2019,Y,209388,0
 CRL_216,Nonclinical,Toxicology,0,NDA,"halobetasol propionate and tazarotene lotion, 0.01%/0.045%","Dow Pharmaceutical Sciences, Inc. c/o Valeant Pharmaceuticals North America, LLC",Drug Evaluation 3,505(b)(2),6/15/2018,2018,Y,209354,0
-CRL_217,CMC,Facility,0,NDA,"Furoscix™ (Furosemide), 80 mg/10mL,","scPharmaceuticals Services, Inc","Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),12/3/2020,2020,Y,209988,0
-CRL_217,Clinical,Human Factors,0,NDA,"Furoscix™ (Furosemide), 80 mg/10mL,","scPharmaceuticals Services, Inc","Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),12/3/2020,2020,Y,209988,0
-CRL_217,Regulatory,Labeling,0,NDA,"Furoscix™ (Furosemide), 80 mg/10mL,","scPharmaceuticals Services, Inc","Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),12/3/2020,2020,Y,209988,0
-CRL_217,CMC,Manufacturing Controls,0,NDA,"Furoscix™ (Furosemide), 80 mg/10mL,","scPharmaceuticals Services, Inc","Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),12/3/2020,2020,Y,209988,0
-CRL_218,Clinical,Human Factors,0,NDA,"Furoscix™ Furosemide), 80 mg/10 mL, Drug-device combination product","scPharmaceuticals Services, Inc",Drug Evaluation 1,505(b)(2),6/11/2018,2018,Y,209988,0
-CRL_218,Regulatory,Labeling,0,NDA,"Furoscix™ Furosemide), 80 mg/10 mL, Drug-device combination product","scPharmaceuticals Services, Inc",Drug Evaluation 1,505(b)(2),6/11/2018,2018,Y,209988,0
-CRL_218,CMC,Manufacturing Controls,0,NDA,"Furoscix™ Furosemide), 80 mg/10 mL, Drug-device combination product","scPharmaceuticals Services, Inc",Drug Evaluation 1,505(b)(2),6/11/2018,2018,Y,209988,0
-CRL_218,CMC,Microbiology,0,NDA,"Furoscix™ Furosemide), 80 mg/10 mL, Drug-device combination product","scPharmaceuticals Services, Inc",Drug Evaluation 1,505(b)(2),6/11/2018,2018,Y,209988,0
-CRL_218,Clinical,Safety,0,NDA,"Furoscix™ Furosemide), 80 mg/10 mL, Drug-device combination product","scPharmaceuticals Services, Inc",Drug Evaluation 1,505(b)(2),6/11/2018,2018,Y,209988,0
+CRL_217,CMC,Facility,0,NDA,"FuroscixÂ™ (Furosemide), 80 mg/10mL,","scPharmaceuticals Services, Inc","Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),12/3/2020,2020,Y,209988,0
+CRL_217,Clinical,Human Factors,0,NDA,"FuroscixÂ™ (Furosemide), 80 mg/10mL,","scPharmaceuticals Services, Inc","Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),12/3/2020,2020,Y,209988,0
+CRL_217,Regulatory,Labeling,0,NDA,"FuroscixÂ™ (Furosemide), 80 mg/10mL,","scPharmaceuticals Services, Inc","Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),12/3/2020,2020,Y,209988,0
+CRL_217,CMC,Manufacturing Controls,0,NDA,"FuroscixÂ™ (Furosemide), 80 mg/10mL,","scPharmaceuticals Services, Inc","Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),12/3/2020,2020,Y,209988,0
+CRL_218,Clinical,Human Factors,0,NDA,"FuroscixÂ™ Furosemide), 80 mg/10 mL, Drug-device combination product","scPharmaceuticals Services, Inc",Drug Evaluation 1,505(b)(2),6/11/2018,2018,Y,209988,0
+CRL_218,Regulatory,Labeling,0,NDA,"FuroscixÂ™ Furosemide), 80 mg/10 mL, Drug-device combination product","scPharmaceuticals Services, Inc",Drug Evaluation 1,505(b)(2),6/11/2018,2018,Y,209988,0
+CRL_218,CMC,Manufacturing Controls,0,NDA,"FuroscixÂ™ Furosemide), 80 mg/10 mL, Drug-device combination product","scPharmaceuticals Services, Inc",Drug Evaluation 1,505(b)(2),6/11/2018,2018,Y,209988,0
+CRL_218,CMC,Microbiology,0,NDA,"FuroscixÂ™ Furosemide), 80 mg/10 mL, Drug-device combination product","scPharmaceuticals Services, Inc",Drug Evaluation 1,505(b)(2),6/11/2018,2018,Y,209988,0
+CRL_218,Clinical,Safety,0,NDA,"FuroscixÂ™ Furosemide), 80 mg/10 mL, Drug-device combination product","scPharmaceuticals Services, Inc",Drug Evaluation 1,505(b)(2),6/11/2018,2018,Y,209988,0
 CRL_219,CMC,Facility,0,NDA,Combogesic (acetaminophen and ibuprofen) tablets,"AFT Pharmaceuticals, Inc. c/o Chesapeake Regulatory Group, Inc.",Neuroscience,505(b)(2),11/6/2020,2020,Y,209471,0
 CRL_219,Regulatory,Labeling,0,NDA,Combogesic (acetaminophen and ibuprofen) tablets,"AFT Pharmaceuticals, Inc. c/o Chesapeake Regulatory Group, Inc.",Neuroscience,505(b)(2),11/6/2020,2020,Y,209471,0
 CRL_220,Clinical,Data Integrity,0,NDA,COMBOGESIC (ibuprofen 97.5 mg/acetaminophen 325 mg) Film-Coated Tablets.,"AFT Pharmaceuticals, Inc. c/o Chesapeake Regulatory Group, Inc.",Drug Evaluation 2,505(b)(2),12/22/2017,2017,Y,209471,0
@@ -641,11 +641,11 @@ CRL_269,CMC,Stability,0,BLA,PRV-031,"Provention Bio, Inc","Cardiology, Hematolog
 CRL_270,CMC,Facility,0,BLA,MOD-4023 injection,Pfizer Ireland Pharmaceuticals,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),1/21/2022,2022,Y,761184,0
 CRL_270,Clinical,Risk-Benefit,0,BLA,MOD-4023 injection,Pfizer Ireland Pharmaceuticals,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),1/21/2022,2022,Y,761184,0
 CRL_270,CMC,Redacted,1,BLA,MOD-4023 injection,Pfizer Ireland Pharmaceuticals,"Cardiology, Hematology, Endocrinology, and Nephrology",351(a),1/21/2022,2022,Y,761184,0
-CRL_271,CMC,Facility,0,BLA,"""concentrate of proteolytic enzymes enriched in bromelain” gel","MediWound, Ltd.",Immunology and Inflammation,351(a),6/25/2021,2021,Y,761192,0
-CRL_271,CMC,Manufacturing Controls,0,BLA,"""concentrate of proteolytic enzymes enriched in bromelain” gel","MediWound, Ltd.",Immunology and Inflammation,351(a),6/25/2021,2021,Y,761192,0
-CRL_271,CMC,Microbiology,0,BLA,"""concentrate of proteolytic enzymes enriched in bromelain” gel","MediWound, Ltd.",Immunology and Inflammation,351(a),6/25/2021,2021,Y,761192,0
-CRL_271,CMC,Specifications,0,BLA,"""concentrate of proteolytic enzymes enriched in bromelain” gel","MediWound, Ltd.",Immunology and Inflammation,351(a),6/25/2021,2021,Y,761192,0
-CRL_271,CMC,Stability,0,BLA,"""concentrate of proteolytic enzymes enriched in bromelain” gel","MediWound, Ltd.",Immunology and Inflammation,351(a),6/25/2021,2021,Y,761192,0
+CRL_271,CMC,Facility,0,BLA,"""concentrate of proteolytic enzymes enriched in bromelainÂ” gel","MediWound, Ltd.",Immunology and Inflammation,351(a),6/25/2021,2021,Y,761192,0
+CRL_271,CMC,Manufacturing Controls,0,BLA,"""concentrate of proteolytic enzymes enriched in bromelainÂ” gel","MediWound, Ltd.",Immunology and Inflammation,351(a),6/25/2021,2021,Y,761192,0
+CRL_271,CMC,Microbiology,0,BLA,"""concentrate of proteolytic enzymes enriched in bromelainÂ” gel","MediWound, Ltd.",Immunology and Inflammation,351(a),6/25/2021,2021,Y,761192,0
+CRL_271,CMC,Specifications,0,BLA,"""concentrate of proteolytic enzymes enriched in bromelainÂ” gel","MediWound, Ltd.",Immunology and Inflammation,351(a),6/25/2021,2021,Y,761192,0
+CRL_271,CMC,Stability,0,BLA,"""concentrate of proteolytic enzymes enriched in bromelainÂ” gel","MediWound, Ltd.",Immunology and Inflammation,351(a),6/25/2021,2021,Y,761192,0
 CRL_272,CMC,Facility,0,BLA,BAT1706,Bio-Thera Solutions Ltd.,Oncologic Diseases,351(k),11/19/2021,2021,Y,761198,0
 CRL_272,CMC,Manufacturing Controls,0,BLA,BAT1706,Bio-Thera Solutions Ltd.,Oncologic Diseases,351(k),11/19/2021,2021,Y,761198,0
 CRL_272,CMC,Microbiology,0,BLA,BAT1706,Bio-Thera Solutions Ltd.,Oncologic Diseases,351(k),11/19/2021,2021,Y,761198,0
@@ -690,21 +690,21 @@ CRL_292,CMC,Facility,0,BLA,IMAB362,"Astellas Pharma US, Inc",Oncologic Diseases,
 CRL_293,CMC,Facility,0,BLA,CSL312 (garadacimab),CSL Behring LLC,Immunology and Inflammation,351(a),10/7/2024,2024,Y,761367,0
 CRL_293,CMC,Microbiology,0,BLA,CSL312 (garadacimab),CSL Behring LLC,Immunology and Inflammation,351(a),10/7/2024,2024,Y,761367,0
 CRL_293,CMC,Manufacturing Controls,0,BLA,CSL312 (garadacimab),CSL Behring LLC,Immunology and Inflammation,351(a),10/7/2024,2024,Y,761367,0
-CRL_294,CMC,Facility,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),7/27/2023,2023,Y,214835,0
-CRL_294,Regulatory,Labeling,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),7/27/2023,2023,Y,214835,0
-CRL_295,Regulatory,Labeling,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),7/15/2022,2022,Y,214835,0
-CRL_295,Clinical,Human Factors,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),7/15/2022,2022,Y,214835,0
-CRL_295,CMC,Microbiology,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),7/15/2022,2022,Y,214835,0
-CRL_295,CMC,Facility,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),7/15/2022,2022,Y,214835,0
-CRL_295,CMC,Facility,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),7/15/2022,2022,Y,214835,0
-CRL_296,CMC,Facility,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
-CRL_296,CMC,Microbiology,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
-CRL_296,Clinical,Human Factors,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
-CRL_296,Nonclinical,Insufficient Nonclinical Support,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
-CRL_296,CMC,Specifications,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
-CRL_296,CMC,Stability,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
-CRL_296,CMC,Manufacturing Controls,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
-CRL_296,CMC,Biopharmaceutics,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios Farmacéuticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
+CRL_294,CMC,Facility,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),7/27/2023,2023,Y,214835,0
+CRL_294,Regulatory,Labeling,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),7/27/2023,2023,Y,214835,0
+CRL_295,Regulatory,Labeling,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),7/15/2022,2022,Y,214835,0
+CRL_295,Clinical,Human Factors,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),7/15/2022,2022,Y,214835,0
+CRL_295,CMC,Microbiology,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),7/15/2022,2022,Y,214835,0
+CRL_295,CMC,Facility,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),7/15/2022,2022,Y,214835,0
+CRL_295,CMC,Facility,0,NDA,Risvan (risperidone ISM) intramuscular injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),7/15/2022,2022,Y,214835,0
+CRL_296,CMC,Facility,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
+CRL_296,CMC,Microbiology,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
+CRL_296,Clinical,Human Factors,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
+CRL_296,Nonclinical,Insufficient Nonclinical Support,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
+CRL_296,CMC,Specifications,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
+CRL_296,CMC,Stability,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
+CRL_296,CMC,Manufacturing Controls,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
+CRL_296,CMC,Biopharmaceutics,0,NDA,Risperidone extended-release injectable suspension,"Laboratorios FarmacÃ©uticos ROVI, S.A.",Neuroscience,505(b)(2),9/24/2021,2021,Y,214835,0
 CRL_297,Clinical,Safety,0,NDA,Posimir (bupivacaine extended-release solution for instillaiton,DUREC corporation,Drug Evaluation 2,505(b)(2),2/12/2014,2014,Y,204803,0
 CRL_298,CMC,Facility,0,NDA,Acetaminophen in the PAB container,B. Braun Medical,Neuroscience,505(b)(2),4/24/2020,2020,Y,204957,0
 CRL_299,Nonclinical,Insufficient Nonclinical Support,0,NDA,Lutrate Depot (Leuprolide acetate for injection),ELC Group,Hematology & Oncology Products,505(b)(2),5/29/2015,2015,Y,205054,0
