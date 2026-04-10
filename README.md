@@ -1,9 +1,8 @@
 # CRL-Deficiency-Analysis
 Analysis of FDA Complete Response Letter (CRL) deficiency patterns using SAS and R Shiny
 
-https://019d68b9-8632-be6a-22d1-a0529aa66546.share.connect.posit.cloud/
+Live Dashboard: https://hannahweber-crl-deficiency-analysis.share.connect.posit.cloud/
 
-# CRL Deficiency Analysis
 ## Overview
 Complete Response Letters (CRLs) issued by the U.S. Food and Drug Administration (FDA) provide detailed feedback when drug and biologic applications cannot be approved; however, their unstructured format makes it difficult to perform systematic analysis.
 
@@ -75,6 +74,13 @@ Deficiencies were coded at the event level, allowing for analysis at both the de
 
 #### Patent Certifications
 - Issues related to patent certification requirements
+
+---
+
+## Tools Used
+- SAS (data processing and statistical analysis)
+- R (Shiny dashboard development)
+- Excel (initial data organization)
 
 ---
 
