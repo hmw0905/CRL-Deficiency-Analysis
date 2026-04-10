@@ -10,8 +10,8 @@ library(scales)
 library(DT)
 library(htmltools)
 
-crl_long <- read_csv("crl_long2.csv", show_col_types = FALSE )
-domain_unique <- read_csv("domain_unique.csv", show_col_types = FALSE)
+crl_long <- read_csv("dashboard_data/crl_long2.csv", show_col_types = FALSE )
+domain_unique <- read_csv("dashboard_data/domain_unique.csv", show_col_types = FALSE)
 
 crl_long <- crl_long %>%
   mutate(
