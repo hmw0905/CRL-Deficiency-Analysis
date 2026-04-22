@@ -951,60 +951,144 @@ server <- function(input, output, session) {
     )
   })
   
-  output$download_domain <- downloadHandler(
-    filename = function() {
-      paste0("domain_summary_", Sys.Date(), ".csv")
-    },
-    content = function(file) {
-      df <- filtered_domain() %>%
-        count(deficiency_domain, name = "count") %>%
-        mutate(percent = round(100 * count / sum(count), 2)) %>%
-        arrange(desc(count))
-      write.csv(df, file, row.names = FALSE)
-    }
-  )
-  
-  output$download_subtype <- downloadHandler(
-    filename = function() {
-      paste0("subtype_summary_", Sys.Date(), ".csv")
-    },
-    content = function(file) {
-      if (input$domain == "All") {
-        df <- filtered_long() %>%
-          filter(!is.na(deficiency_subtype), deficiency_subtype != "") %>%
-          count(deficiency_domain, deficiency_subtype, name = "count", sort = TRUE) %>%
-          group_by(deficiency_domain) %>%
-          mutate(percent = round(100 * count / sum(count), 2)) %>%
-          ungroup()
-      } else {
-        df <- filtered_long() %>%
-          filter(!is.na(deficiency_subtype), deficiency_subtype != "") %>%
-          count(deficiency_subtype, name = "count", sort = TRUE) %>%
-          mutate(percent = round(100 * count / sum(count), 2))
-      }
-      write.csv(df, file, row.names = FALSE)
-    }
-  )
-  
-  output$download_structure <- downloadHandler(
-    filename = function() {
-      paste0("structure_summary_", Sys.Date(), ".csv")
-    },
-    content = function(file) {
-      df <- filtered_structure() %>%
-        distinct(event_id, deficiency_domain) %>%
-        arrange(event_id, deficiency_domain) %>%
-        group_by(event_id) %>%
-        summarise(
-          pattern = paste(deficiency_domain, collapse = ", "),
-          .groups = "drop"
-        ) %>%
-        count(pattern, name = "count") %>%
-        mutate(percent = round(100 * count / sum(count), 2)) %>%
-        arrange(desc(count))
-      write.csv(df, file, row.names = FALSE)
-    }
-  )
-}
+output$download_domain <- downloadHandler(
+  filename = function() {
+    paste0("domain_chart_", Sys.Date(), ".png")
+  },
+  content = function(file) {
 
+    plot_df <- filtered_domain() %>%
+      count(deficiency_domain, name = "n") %>%
+      mutate(
+        pct = n / sum(n),
+        deficiency_domain = fct_reorder(deficiency_domain, n)
+      )
+
+    p <- ggplot(plot_df, aes(x = deficiency_domain, y = pct, fill = deficiency_domain)) +
+      geom_col(width = 0.72, show.legend = FALSE) +
+      geom_text(aes(label = percent(pct, accuracy = 0.1)),
+                hjust = -0.1, size = 5) +
+      coord_flip() +
+      scale_fill_manual(values = domain_colors, drop = FALSE) +
+      scale_y_continuous(labels = percent_format(),
+                         expand = expansion(mult = c(0, 0.12))) +
+      labs(
+        x = NULL,
+        y = "Percent of CRL-Domain Records",
+        title = "Distribution of Deficiency Domains Across CRLs"
+      ) +
+      theme_minimal(base_size = 14)
+
+    ggsave(file, plot = p, width = 10, height = 7, dpi = 300)
+  }
+)
+
+
+output$download_subtype <- downloadHandler(
+  filename = function() {
+    paste0("subtype_chart_", Sys.Date(), ".png")
+  },
+  content = function(file) {
+
+    if (input$domain == "All") {
+
+      plot_df <- filtered_long() %>%
+        filter(!is.na(deficiency_subtype), deficiency_subtype != "") %>%
+        count(deficiency_domain, deficiency_subtype, name = "n") %>%
+        group_by(deficiency_domain) %>%
+        mutate(pct = n / sum(n)) %>%
+        ungroup()
+
+      p <- ggplot(
+        plot_df,
+        aes(
+          x = reorder_within(deficiency_subtype, n, deficiency_domain),
+          y = pct,
+          fill = deficiency_domain
+        )
+      ) +
+        geom_col(show.legend = FALSE) +
+        coord_flip() +
+        facet_wrap(~ deficiency_domain, scales = "free_y") +
+        scale_x_reordered() +
+        scale_fill_manual(values = domain_colors, drop = FALSE) +
+        scale_y_continuous(labels = percent_format()) +
+        labs(
+          x = NULL,
+          y = "Percent within Domain",
+          title = "Subtype Composition Across All Domains"
+        ) +
+        theme_minimal(base_size = 14)
+
+    } else {
+
+      plot_df <- filtered_long() %>%
+        filter(!is.na(deficiency_subtype), deficiency_subtype != "") %>%
+        count(deficiency_subtype, name = "n", sort = TRUE) %>%
+        mutate(
+          pct = n / sum(n),
+          deficiency_subtype = factor(deficiency_subtype,
+                                      levels = rev(deficiency_subtype))
+        )
+
+      fill_col <- if (input$domain %in% names(domain_colors))
+        domain_colors[[input$domain]] else "#5B8E7D"
+
+      p <- ggplot(plot_df, aes(x = deficiency_subtype, y = pct)) +
+        geom_col(fill = fill_col, width = 0.72) +
+        geom_text(aes(label = percent(pct, accuracy = 0.1)),
+                  hjust = -0.1, size = 5) +
+        coord_flip() +
+        scale_y_continuous(labels = percent_format(),
+                           expand = expansion(mult = c(0, 0.12))) +
+        labs(
+          x = NULL,
+          y = "Percent within Selected Domain",
+          title = paste("Subtype Composition:", input$domain)
+        ) +
+        theme_minimal(base_size = 14)
+    }
+
+    ggsave(file, plot = p, width = 11, height = 8, dpi = 300)
+  }
+)
+
+
+output$download_structure <- downloadHandler(
+  filename = function() {
+    paste0("structure_chart_", Sys.Date(), ".png")
+  },
+  content = function(file) {
+
+    structure_df <- filtered_structure() %>%
+      count(event_id, name = "num_domains") %>%
+      mutate(
+        structure = ifelse(num_domains == 1,
+                           "Single-Domain",
+                           "Multi-Domain")
+      ) %>%
+      count(structure, name = "n") %>%
+      mutate(pct = n / sum(n))
+
+    p <- ggplot(structure_df,
+                aes(x = structure, y = pct, fill = structure)) +
+      geom_col(width = 0.65, show.legend = FALSE) +
+      geom_text(aes(label = percent(pct, accuracy = 0.1)),
+                vjust = -0.4, size = 5) +
+      scale_y_continuous(labels = percent_format(),
+                         expand = expansion(mult = c(0, 0.12))) +
+      scale_fill_manual(values = c(
+        "Single-Domain" = "#5B8E7D",
+        "Multi-Domain" = "#C06C84"
+      )) +
+      labs(
+        x = "CRL Structure",
+        y = "Percent of CRLs",
+        title = "Single vs Multi-Domain CRLs"
+      ) +
+      theme_minimal(base_size = 14)
+
+    ggsave(file, plot = p, width = 9, height = 7, dpi = 300)
+  }
+)
 shinyApp(ui = ui, server = server)
