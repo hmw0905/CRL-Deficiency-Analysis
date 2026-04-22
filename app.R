@@ -150,11 +150,11 @@ ui <- fluidPage(
       
       hr(),
       h4("Download Summaries"),
-      downloadButton("download_domain", "Download Domain Table"),
+      downloadButton("download_domain", "Download Domain Chart"),
       br(), br(),
-      downloadButton("download_subtype", "Download Subtype Table"),
+      downloadButton("download_subtype", "Download Subtype Chart"),
       br(), br(),
-      downloadButton("download_structure", "Download Structure Table")
+      downloadButton("download_structure", "Download Structure Chart")
     ),
     
     mainPanel(
@@ -956,7 +956,6 @@ output$download_domain <- downloadHandler(
     paste0("domain_chart_", Sys.Date(), ".png")
   },
   content = function(file) {
-
     plot_df <- filtered_domain() %>%
       count(deficiency_domain, name = "n") %>%
       mutate(
@@ -966,23 +965,34 @@ output$download_domain <- downloadHandler(
 
     p <- ggplot(plot_df, aes(x = deficiency_domain, y = pct, fill = deficiency_domain)) +
       geom_col(width = 0.72, show.legend = FALSE) +
-      geom_text(aes(label = percent(pct, accuracy = 0.1)),
-                hjust = -0.1, size = 5) +
+      geom_text(
+        aes(label = percent(pct, accuracy = 0.1)),
+        hjust = -0.1,
+        size = 4
+      ) +
       coord_flip() +
       scale_fill_manual(values = domain_colors, drop = FALSE) +
-      scale_y_continuous(labels = percent_format(),
-                         expand = expansion(mult = c(0, 0.12))) +
+      scale_y_continuous(
+        labels = percent_format(),
+        expand = expansion(mult = c(0, 0.12))
+      ) +
       labs(
         x = NULL,
         y = "Percent of CRL-Domain Records",
         title = "Distribution of Deficiency Domains Across CRLs"
       ) +
-      theme_minimal(base_size = 14)
+      theme_minimal(base_size = 13) +
+      theme(
+        plot.title = element_text(size = 16, face = "bold"),
+        strip.text = element_text(face = "bold"),
+        axis.title = element_text(face = "bold"),
+        panel.grid.minor = element_blank(),
+        panel.grid.major.y = element_blank()
+      )
 
-    ggsave(file, plot = p, width = 10, height = 7, dpi = 300)
+    ggsave(file, plot = p, width = 9, height = 6, dpi = 300)
   }
 )
-
 
 output$download_subtype <- downloadHandler(
   filename = function() {
@@ -1018,7 +1028,14 @@ output$download_subtype <- downloadHandler(
           y = "Percent within Domain",
           title = "Subtype Composition Across All Domains"
         ) +
-        theme_minimal(base_size = 14)
+        theme_minimal(base_size = 13) +
+        theme(
+          plot.title = element_text(size = 16, face = "bold"),
+          strip.text = element_text(face = "bold"),
+          axis.title = element_text(face = "bold"),
+          panel.grid.minor = element_blank(),
+          panel.grid.major.y = element_blank()
+        )
 
     } else {
 
@@ -1027,68 +1044,90 @@ output$download_subtype <- downloadHandler(
         count(deficiency_subtype, name = "n", sort = TRUE) %>%
         mutate(
           pct = n / sum(n),
-          deficiency_subtype = factor(deficiency_subtype,
-                                      levels = rev(deficiency_subtype))
+          deficiency_subtype = factor(deficiency_subtype, levels = rev(deficiency_subtype))
         )
 
-      fill_col <- if (input$domain %in% names(domain_colors))
-        domain_colors[[input$domain]] else "#5B8E7D"
+      fill_col <- "#5B8E7D"
+      if (input$domain %in% names(domain_colors)) {
+        fill_col <- domain_colors[[input$domain]]
+      }
 
       p <- ggplot(plot_df, aes(x = deficiency_subtype, y = pct)) +
         geom_col(fill = fill_col, width = 0.72) +
-        geom_text(aes(label = percent(pct, accuracy = 0.1)),
-                  hjust = -0.1, size = 5) +
+        geom_text(
+          aes(label = percent(pct, accuracy = 0.1)),
+          hjust = -0.1,
+          size = 4
+        ) +
         coord_flip() +
-        scale_y_continuous(labels = percent_format(),
-                           expand = expansion(mult = c(0, 0.12))) +
+        scale_y_continuous(
+          labels = percent_format(),
+          expand = expansion(mult = c(0, 0.12))
+        ) +
         labs(
           x = NULL,
           y = "Percent within Selected Domain",
           title = paste("Subtype Composition:", input$domain)
         ) +
-        theme_minimal(base_size = 14)
+        theme_minimal(base_size = 13) +
+        theme(
+          plot.title = element_text(size = 16, face = "bold"),
+          strip.text = element_text(face = "bold"),
+          axis.title = element_text(face = "bold"),
+          panel.grid.minor = element_blank(),
+          panel.grid.major.y = element_blank()
+        )
     }
 
-    ggsave(file, plot = p, width = 11, height = 8, dpi = 300)
+    ggsave(file, plot = p, width = 10, height = 7, dpi = 300)
   }
 )
-
 
 output$download_structure <- downloadHandler(
   filename = function() {
     paste0("structure_chart_", Sys.Date(), ".png")
   },
   content = function(file) {
-
     structure_df <- filtered_structure() %>%
       count(event_id, name = "num_domains") %>%
       mutate(
-        structure = ifelse(num_domains == 1,
-                           "Single-Domain",
-                           "Multi-Domain")
+        structure = ifelse(num_domains == 1, "Single-Domain", "Multi-Domain")
       ) %>%
       count(structure, name = "n") %>%
       mutate(pct = n / sum(n))
 
-    p <- ggplot(structure_df,
-                aes(x = structure, y = pct, fill = structure)) +
+    p <- ggplot(structure_df, aes(x = structure, y = pct, fill = structure)) +
       geom_col(width = 0.65, show.legend = FALSE) +
-      geom_text(aes(label = percent(pct, accuracy = 0.1)),
-                vjust = -0.4, size = 5) +
-      scale_y_continuous(labels = percent_format(),
-                         expand = expansion(mult = c(0, 0.12))) +
-      scale_fill_manual(values = c(
-        "Single-Domain" = "#5B8E7D",
-        "Multi-Domain" = "#C06C84"
-      )) +
+      geom_text(
+        aes(label = percent(pct, accuracy = 0.1)),
+        vjust = -0.4,
+        size = 4.5
+      ) +
+      scale_y_continuous(
+        labels = percent_format(),
+        expand = expansion(mult = c(0, 0.12))
+      ) +
+      scale_fill_manual(
+        values = c(
+          "Single-Domain" = "#5B8E7D",
+          "Multi-Domain" = "#C06C84"
+        )
+      ) +
       labs(
         x = "CRL Structure",
         y = "Percent of CRLs",
         title = "Single vs Multi-Domain CRLs"
       ) +
-      theme_minimal(base_size = 14)
+      theme_minimal(base_size = 13) +
+      theme(
+        plot.title = element_text(size = 16, face = "bold"),
+        strip.text = element_text(face = "bold"),
+        axis.title = element_text(face = "bold"),
+        panel.grid.minor = element_blank()
+      )
 
-    ggsave(file, plot = p, width = 9, height = 7, dpi = 300)
+    ggsave(file, plot = p, width = 8, height = 6, dpi = 300)
   }
 )
+}
 shinyApp(ui = ui, server = server)
