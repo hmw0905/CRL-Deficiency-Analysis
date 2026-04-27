@@ -1,0 +1,71 @@
+event_id,deficiency_domain,deficiency_subtype,subtype_redacted,application_type,product_name,sponsor,office,regulatory_pathway,crl_date,year,disclosure_status__publicly_rele,application_number,data_limitation
+CRL_010,Clinical,Data Integrity,0,NDA,Glepaglutide Injection,"Zealand Pharma US, Inc",Not Available,Not Available,12/19/2024,2024,N,218828,1
+CRL_010,Clinical,Efficacy,0,NDA,Glepaglutide Injection,"Zealand Pharma US, Inc",Not Available,Not Available,12/19/2024,2024,N,218828,1
+CRL_010,Clinical,Study Design,0,NDA,Glepaglutide Injection,"Zealand Pharma US, Inc",Not Available,Not Available,12/19/2024,2024,N,218828,1
+CRL_010,Statistics,Insufficient Evidence/Not Persuasive,0,NDA,Glepaglutide Injection,"Zealand Pharma US, Inc",Not Available,Not Available,12/19/2024,2024,N,218828,1
+CRL_011,CMC,Facility,0,NDA,Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound),Accord Healthcare Inc,Not Available,Not Available,12/5/2024,2024,N,218762,1
+CRL_025,CMC,Facility,0,NDA,Phenylephrine hydrochloride in sodium chloride injection,"Amneal EU, Limited",Not Available,Not Available,4/2/2025,2025,N,218345,1
+CRL_026,CMC,Redacted,1,NDA,Phenylephrine hydrochloride in sodium chloride injection,"Amneal EU, Limited",Not Available,Not Available,7/1/2024,2024,N,218345,1
+CRL_026,Nonclinical,Redacted,1,NDA,Phenylephrine hydrochloride in sodium chloride injection,"Amneal EU, Limited",Not Available,Not Available,7/1/2024,2024,N,218345,1
+CRL_026,Regulatory,Redacted,1,NDA,Phenylephrine hydrochloride in sodium chloride injection,"Amneal EU, Limited",Not Available,Not Available,7/1/2024,2024,N,218345,1
+CRL_041,Regulatory,Administrative/Filing,0,NDA,Rivoceranib Tablets,"Elevar Therapeutics, Inc",Not Available,Not Available,3/20/2025,2025,N,216586,1
+CRL_067,CMC,Facility,0,BLA,TVB-009,"Teva Pharmaceuticals, Inc",Not Available,Not Available,7/30/2025,2025,N,761385,1
+CRL_087,CMC,Facility,0,BLA,INTP5,Accord BioPharma Inc,Not Available,Not Available,8/5/2025,2025,N,761147,1
+CRL_104,CMC,Facility,0,NDA,Tachnegas Technetium Tc-99m Carbon Aerosol,Cyclomedica Australia Pty Ltd.,Specialty Medicine,505(b)(2),6/25/2021,2021,Y,22335,0
+CRL_104,CMC,Manufacturing Controls,0,NDA,Tachnegas Technetium Tc-99m Carbon Aerosol,Cyclomedica Australia Pty Ltd.,Specialty Medicine,505(b)(2),6/25/2021,2021,Y,22335,0
+CRL_104,CMC,Redacted,1,NDA,Tachnegas Technetium Tc-99m Carbon Aerosol,Cyclomedica Australia Pty Ltd.,Specialty Medicine,505(b)(2),6/25/2021,2021,Y,22335,0
+CRL_104,CMC,Redacted,1,NDA,Tachnegas Technetium Tc-99m Carbon Aerosol,Cyclomedica Australia Pty Ltd.,Specialty Medicine,505(b)(2),6/25/2021,2021,Y,22335,0
+CRL_104,CMC,Specifications,0,NDA,Tachnegas Technetium Tc-99m Carbon Aerosol,Cyclomedica Australia Pty Ltd.,Specialty Medicine,505(b)(2),6/25/2021,2021,Y,22335,0
+CRL_104,CMC,Specifications,0,NDA,Tachnegas Technetium Tc-99m Carbon Aerosol,Cyclomedica Australia Pty Ltd.,Specialty Medicine,505(b)(2),6/25/2021,2021,Y,22335,0
+CRL_104,Clinical,Pharmacology,0,NDA,Tachnegas Technetium Tc-99m Carbon Aerosol,Cyclomedica Australia Pty Ltd.,Specialty Medicine,505(b)(2),6/25/2021,2021,Y,22335,0
+CRL_104,Clinical,Pharmacology,0,NDA,Tachnegas Technetium Tc-99m Carbon Aerosol,Cyclomedica Australia Pty Ltd.,Specialty Medicine,505(b)(2),6/25/2021,2021,Y,22335,0
+CRL_104,Clinical,Safety,0,NDA,Tachnegas Technetium Tc-99m Carbon Aerosol,Cyclomedica Australia Pty Ltd.,Specialty Medicine,505(b)(2),6/25/2021,2021,Y,22335,0
+CRL_109,Clinical,Efficacy,0,NDA,"Nocdurna (desmopressin) Orally  Disintegrating Tablets, 25 mcg and 50 mcg",Ferring Pharmaceuticals Inc.,Drug Evaluation 2,505(b),1/30/2015,2015,Y,22517,0
+CRL_109,Clinical,Safety,0,NDA,"Nocdurna (desmopressin) Orally  Disintegrating Tablets, 25 mcg and 50 mcg",Ferring Pharmaceuticals Inc.,Drug Evaluation 2,505(b),1/30/2015,2015,Y,22517,0
+CRL_123,CMC,Facility,0,NDA,GeNOsyl Delivery System (Nitric Oxide),GeNO LLC,Drug Evaluation 1,505(b)(2),6/28/2013,2013,Y,202860,0
+CRL_123,CMC,Facility,0,NDA,GeNOsyl Delivery System (Nitric Oxide),GeNO LLC,Drug Evaluation 1,505(b)(2),6/28/2013,2013,Y,202860,0
+CRL_123,CMC,Manufacturing Controls,0,NDA,GeNOsyl Delivery System (Nitric Oxide),GeNO LLC,Drug Evaluation 1,505(b)(2),6/28/2013,2013,Y,202860,0
+CRL_123,CMC,Specifications,0,NDA,GeNOsyl Delivery System (Nitric Oxide),GeNO LLC,Drug Evaluation 1,505(b)(2),6/28/2013,2013,Y,202860,0
+CRL_123,CMC,Stability,0,NDA,GeNOsyl Delivery System (Nitric Oxide),GeNO LLC,Drug Evaluation 1,505(b)(2),6/28/2013,2013,Y,202860,0
+CRL_123,Patent Certifications,Patent,0,NDA,GeNOsyl Delivery System (Nitric Oxide),GeNO LLC,Drug Evaluation 1,505(b)(2),6/28/2013,2013,Y,202860,0
+CRL_132,Clinical,Pharmacology,0,NDA,"Levetiracetam Extended-release tablets, 1000 mg and 1500 mg",Sun Pharma Global FZE,Drug Evaluation 1,505(b)(2),3/29/2013,2013,Y,204417,0
+CRL_146,CMC,Facility,0,NDA,"Micafungin for Injection, 50 mg/vial and 100 mg/vial.","Par Sterile Products, LLC",Infectious Diseases,505(b)(2),5/18/2020,2020,Y,212156,0
+CRL_146,CMC,Specifications,0,NDA,"Micafungin for Injection, 50 mg/vial and 100 mg/vial.","Par Sterile Products, LLC",Infectious Diseases,505(b)(2),5/18/2020,2020,Y,212156,0
+CRL_146,CMC,Stability,0,NDA,"Micafungin for Injection, 50 mg/vial and 100 mg/vial.","Par Sterile Products, LLC",Infectious Diseases,505(b)(2),5/18/2020,2020,Y,212156,0
+CRL_146,Nonclinical,Impurity Qualification,0,NDA,"Micafungin for Injection, 50 mg/vial and 100 mg/vial.","Par Sterile Products, LLC",Infectious Diseases,505(b)(2),5/18/2020,2020,Y,212156,0
+CRL_154,CMC,Biopharmaceutics,0,NDA,Rykindo (risperidone) for extended-release injectable suspension,"Shandong Luye Pharmaceutical Co., Ltd.",Neuroscience,505(b)(2),1/28/2020,2020,Y,212849,0
+CRL_154,CMC,Facility,0,NDA,Rykindo (risperidone) for extended-release injectable suspension,"Shandong Luye Pharmaceutical Co., Ltd.",Neuroscience,505(b)(2),1/28/2020,2020,Y,212849,0
+CRL_154,CMC,Manufacturing Controls,0,NDA,Rykindo (risperidone) for extended-release injectable suspension,"Shandong Luye Pharmaceutical Co., Ltd.",Neuroscience,505(b)(2),1/28/2020,2020,Y,212849,0
+CRL_154,Clinical,Human Factors,0,NDA,Rykindo (risperidone) for extended-release injectable suspension,"Shandong Luye Pharmaceutical Co., Ltd.",Neuroscience,505(b)(2),1/28/2020,2020,Y,212849,0
+CRL_154,Clinical,Safety,0,NDA,Rykindo (risperidone) for extended-release injectable suspension,"Shandong Luye Pharmaceutical Co., Ltd.",Neuroscience,505(b)(2),1/28/2020,2020,Y,212849,0
+CRL_156,CMC,Manufacturing Controls,0,NDA,"Naloxone HCl Injection, 5 mg/0.5 mL.",Adamis Pharmaceuticals Corporation,Neuroscience,505(b)(2),11/22/2019,2019,Y,212854,0
+CRL_156,CMC,Specifications,0,NDA,"Naloxone HCl Injection, 5 mg/0.5 mL.",Adamis Pharmaceuticals Corporation,Neuroscience,505(b)(2),11/22/2019,2019,Y,212854,0
+CRL_156,CMC,Stability,0,NDA,"Naloxone HCl Injection, 5 mg/0.5 mL.",Adamis Pharmaceuticals Corporation,Neuroscience,505(b)(2),11/22/2019,2019,Y,212854,0
+CRL_156,Clinical,Pharmacology,0,NDA,"Naloxone HCl Injection, 5 mg/0.5 mL.",Adamis Pharmaceuticals Corporation,Neuroscience,505(b)(2),11/22/2019,2019,Y,212854,0
+CRL_156,Nonclinical,Insufficient Nonclinical Support,0,NDA,"Naloxone HCl Injection, 5 mg/0.5 mL.",Adamis Pharmaceuticals Corporation,Neuroscience,505(b)(2),11/22/2019,2019,Y,212854,0
+CRL_199,CMC,Facility,0,NDA,"Dyanavel XR (amphetamine) extended-release tablets 5 mg, 10 mg, 15 mg, and 20 mg","Emory Partners, LLC",Neuroscience,505(b)(2),1/21/2021,2021,Y,210526,0
+CRL_200,CMC,Facility,0,NDA,"Dyanavel XR (amphetamine) extended-release tablets 5 mg, 10 mg, 15 mg, and 20 mg","Emory Partners, LLC",Drug Evaluation 1,505(b)(2),7/25/2018,2018,Y,210526,0
+CRL_200,Patent Certifications,Patent,0,NDA,"Dyanavel XR (amphetamine) extended-release tablets 5 mg, 10 mg, 15 mg, and 20 mg","Emory Partners, LLC",Drug Evaluation 1,505(b)(2),7/25/2018,2018,Y,210526,0
+CRL_200,Regulatory,Labeling,0,NDA,"Dyanavel XR (amphetamine) extended-release tablets 5 mg, 10 mg, 15 mg, and 20 mg","Emory Partners, LLC",Drug Evaluation 1,505(b)(2),7/25/2018,2018,Y,210526,0
+CRL_219,CMC,Facility,0,NDA,Combogesic (acetaminophen and ibuprofen) tablets,"AFT Pharmaceuticals, Inc. c/o Chesapeake Regulatory Group, Inc.",Neuroscience,505(b)(2),11/6/2020,2020,Y,209471,0
+CRL_219,Regulatory,Labeling,0,NDA,Combogesic (acetaminophen and ibuprofen) tablets,"AFT Pharmaceuticals, Inc. c/o Chesapeake Regulatory Group, Inc.",Neuroscience,505(b)(2),11/6/2020,2020,Y,209471,0
+CRL_229,CMC,Manufacturing Controls,0,NDA,lenacapavir injection,"Gilead Sciences, Inc.",Infectious Diseases,505(b),2/28/2022,2022,Y,215973,0
+CRL_238,CMC,Manufacturing Controls,0,NDA,Landiolol injection.,AOP Orphan Pharmaceuticals GmbH,"Cardiology, Hematology, Endocrinology, and Nephrology",505(b)(2),5/31/2023,2023,Y,217202,0
+CRL_246,CMC,Manufacturing Controls,0,BLA,SB4,"Samsung Bioepis Co., Ltd.",Drug Evaluation 2,351(k),2/23/2018,2018,Y,761066,0
+CRL_246,CMC,Specifications,0,BLA,SB4,"Samsung Bioepis Co., Ltd.",Drug Evaluation 2,351(k),2/23/2018,2018,Y,761066,0
+CRL_246,CMC,Stability,0,BLA,SB4,"Samsung Bioepis Co., Ltd.",Drug Evaluation 2,351(k),2/23/2018,2018,Y,761066,0
+CRL_279,Clinical,Safety,0,BLA,Kisunla (LY3002813) injection,Eli Lilly and Company,Neuroscience,351(a),1/18/2023,2023,Y,761248,0
+CRL_300,CMC,Facility,0,NDA,RizaFilm (rizariptan) oral film,RedHill Biopharma Ltd.,Drug Evaluation 1,505(b)(2),1/31/2014,2014,Y,205394,0
+CRL_300,CMC,Manufacturing Controls,0,NDA,RizaFilm (rizariptan) oral film,RedHill Biopharma Ltd.,Drug Evaluation 1,505(b)(2),1/31/2014,2014,Y,205394,0
+CRL_300,CMC,Specifications,0,NDA,RizaFilm (rizariptan) oral film,RedHill Biopharma Ltd.,Drug Evaluation 1,505(b)(2),1/31/2014,2014,Y,205394,0
+CRL_300,CMC,Stability,0,NDA,RizaFilm (rizariptan) oral film,RedHill Biopharma Ltd.,Drug Evaluation 1,505(b)(2),1/31/2014,2014,Y,205394,0
+CRL_300,Patent Certifications,Patent,0,NDA,RizaFilm (rizariptan) oral film,RedHill Biopharma Ltd.,Drug Evaluation 1,505(b)(2),1/31/2014,2014,Y,205394,0
+CRL_300,Regulatory,Administrative/Filing,0,NDA,RizaFilm (rizariptan) oral film,RedHill Biopharma Ltd.,Drug Evaluation 1,505(b)(2),1/31/2014,2014,Y,205394,0
+CRL_300,Regulatory,Labeling,0,NDA,RizaFilm (rizariptan) oral film,RedHill Biopharma Ltd.,Drug Evaluation 1,505(b)(2),1/31/2014,2014,Y,205394,0
+CRL_327,CMC,Microbiology,0,NDA,Pemetrexed Injection,Actavis LLC (subsidiary of Teva),Hematology & Oncology Products,505(b)(2),6/26/2018,2018,Y,208419,0
+CRL_327,CMC,Specifications,0,NDA,Pemetrexed Injection,Actavis LLC (subsidiary of Teva),Hematology & Oncology Products,505(b)(2),6/26/2018,2018,Y,208419,0
+CRL_327,CMC,Stability,0,NDA,Pemetrexed Injection,Actavis LLC (subsidiary of Teva),Hematology & Oncology Products,505(b)(2),6/26/2018,2018,Y,208419,0
+CRL_356,Clinical,Efficacy,0,NDA,Grafapex (treosulfan) for injection,medac Gesellschaft fur klinische Spezialpraparate mbH,Oncologic Diseases,505(b),7/30/2021,2021,Y,214759,0
+CRL_356,Statistics,SAP Deficiencies,0,NDA,Grafapex (treosulfan) for injection,medac Gesellschaft fur klinische Spezialpraparate mbH,Oncologic Diseases,505(b),7/30/2021,2021,Y,214759,0
+CRL_371,CMC,Facility,0,NDA,(Carbidopa and Levodopa) Injection,"NeuroDerm, Ltd.",Not Available,Not Available,10/21/2025,2025,N,218317,1
+CRL_371,Nonclinical,Redacted,1,NDA,(Carbidopa and Levodopa) Injection,"NeuroDerm, Ltd.",Not Available,Not Available,10/21/2025,2025,N,218317,1
