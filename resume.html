@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Resume | Hannah Weber</title>
 <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
 <nav class="nav page-nav">
-  <div class="logo">Hannah Weber</div>
+  <a class="logo" href="index.html">Hannah Weber</a>
   <div class="nav-links">
     <a href="index.html">Home</a>
     <a href="paper.html">Paper</a>
@@ -20,48 +22,205 @@
 </nav>
 
 <main class="page">
+
   <p class="eyebrow">Resume</p>
   <h1>Hannah Weber</h1>
 
   <p class="page-intro">
-    Statistics student at North Carolina State University interested in biostatistics,
-    healthcare analytics, regulatory science, and applied statistical programming.
+    Statistics undergraduate at North Carolina State University interested in biostatistics,
+    regulatory science, healthcare analytics, and applied statistical programming.
+    My current work focuses on analyzing FDA Complete Response Letters using SAS,
+    structured data workflows, statistical modeling, and R Shiny dashboard reporting.
   </p>
 
+  <div class="buttons">
+    <a href="Resume 3.28.pdf" target="_blank" class="btn gold">Open Resume PDF</a>
+    <a href="paper.html" class="btn dark-btn">View Research Paper</a>
+    <a href="dashboard.html" class="btn dark-btn">View Dashboard</a>
+  </div>
+
   <section class="content-block">
-    <h2>Technical Skills</h2>
-    <div class="skills">
-      <span>SAS</span>
-      <span>R</span>
-      <span>R Shiny</span>
-      <span>PROC FREQ</span>
-      <span>PROC LOGISTIC</span>
-      <span>SQL</span>
-      <span>Excel</span>
-      <span>GitHub</span>
-      <span>Statistical Modeling</span>
-      <span>Healthcare Analytics</span>
+    <h2>Featured Research Project</h2>
+
+    <div class="resume-feature">
+      <div>
+        <h3>FDA Complete Response Letter Deficiency Analysis</h3>
+        <p>
+          Independent research project analyzing publicly available FDA Complete Response Letters
+          to identify patterns in regulatory deficiencies and application outcomes.
+        </p>
+
+        <ul>
+          <li>Structured and coded 400+ FDA Complete Response Letters into analysis-ready datasets.</li>
+          <li>Developed a classification framework for deficiency domains and subtypes, including CMC, Clinical, Nonclinical, Regulatory, and Statistics.</li>
+          <li>Used SAS for data cleaning, merging, frequency analysis, chi-square testing, co-occurrence summaries, and logistic regression.</li>
+          <li>Built an R Shiny dashboard to make project results interactive and easier to explore.</li>
+          <li>Prepared a conference-style research paper and supplementary statistical results reports.</li>
+        </ul>
+      </div>
+
+      <div class="resume-mini-card">
+        <h3>Project Tools</h3>
+        <p>SAS</p>
+        <p>R Shiny</p>
+        <p>Excel</p>
+        <p>GitHub Pages</p>
+        <p>Statistical Modeling</p>
+      </div>
     </div>
   </section>
 
   <section class="content-block">
-    <h2>Featured Project</h2>
-    <p>
-      <strong>FDA Complete Response Letter Deficiency Analysis:</strong>
-      Independent research project using SAS and R Shiny to analyze regulatory deficiency patterns
-      in FDA Complete Response Letters.
-    </p>
+    <h2>Education</h2>
+
+    <div class="output-card">
+      <h3>North Carolina State University</h3>
+      <p><strong>Major:</strong> Statistics</p>
+      <p><strong>Minors:</strong> Mathematics and Global One Health</p>
+      <p><strong>Expected Graduation:</strong> May 2027</p>
+    </div>
+  </section>
+
+  <section class="content-block">
+    <h2>Technical Skills</h2>
+
+    <div class="skill-section">
+      <h3>Programming & Tools</h3>
+      <div class="skills">
+        <span>SAS</span>
+        <span>R</span>
+        <span>Python</span>
+        <span>SQL</span>
+        <span>Excel</span>
+        <span>GitHub</span>
+        <span>R Shiny</span>
+      </div>
+    </div>
+
+    <div class="skill-section">
+      <h3>Statistical & Analytical Skills</h3>
+      <div class="skills">
+        <span>Data Cleaning</span>
+        <span>Regression Modeling</span>
+        <span>Logistic Regression</span>
+        <span>Exploratory Data Analysis</span>
+        <span>Data Visualization</span>
+        <span>Chi-Square Testing</span>
+        <span>Statistical Reporting</span>
+      </div>
+    </div>
+
+    <div class="skill-section">
+      <h3>Research Areas</h3>
+      <div class="skills">
+        <span>Biostatistics</span>
+        <span>Regulatory Science</span>
+        <span>Healthcare Analytics</span>
+        <span>Clinical Trials</span>
+        <span>Public Health</span>
+        <span>Global One Health</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="content-block">
+    <h2>Relevant Coursework</h2>
+
+    <div class="output-grid">
+      <div class="output-card">
+        <h3>Statistics</h3>
+        <p>
+          Intro Statistics I & II, Statistical Programming in R/SAS/Python,
+          Intro to Probability, Regression Analysis, Statistical Computing,
+          Epidemiology in Statistics.
+        </p>
+      </div>
+
+      <div class="output-card">
+        <h3>Mathematics</h3>
+        <p>
+          Calculus I–III, Linear Algebra, Intro to Advanced Mathematics,
+          Mathematical Analysis I.
+        </p>
+      </div>
+
+      <div class="output-card">
+        <h3>Health & Applied Sciences</h3>
+        <p>
+          Global One Health, epidemiology-focused statistics, applied public health
+          and regulatory data interests.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="content-block">
+    <h2>Experience</h2>
+
+    <div class="resume-experience">
+
+      <div class="experience-card">
+        <h3>Mathematics and Statistics Tutor</h3>
+        <p><strong>NC State Academic Support Program for Student Athletes</strong></p>
+        <p>August 2025 – Present</p>
+        <ul>
+          <li>Tutor student-athletes in mathematics and statistics coursework.</li>
+          <li>Support topics including regression, probability, confidence intervals, and hypothesis testing.</li>
+          <li>Translate quantitative material into accessible explanations for non-technical students.</li>
+          <li>Develop structured practice problems to reinforce statistical reasoning.</li>
+        </ul>
+      </div>
+
+      <div class="experience-card">
+        <h3>Tutor</h3>
+        <p><strong>BrainTrust Tutors</strong></p>
+        <p>April 2025 – Present</p>
+        <ul>
+          <li>Tutor K–12 mathematics, English Language Arts, and standardized test preparation.</li>
+          <li>Adapt explanations to students with different learning styles and academic needs.</li>
+        </ul>
+      </div>
+
+      <div class="experience-card">
+        <h3>Front Desk, Adoption Affairs, and Kennel Services</h3>
+        <p><strong>Mitchell Mill Animal Hospital</strong></p>
+        <p>May 2024 – August 2025</p>
+        <ul>
+          <li>Supported front desk operations, adoption-related communication, and animal care services.</li>
+          <li>Gained experience working in a healthcare-adjacent service environment requiring organization and communication.</li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="content-block">
+    <h2>Research Direction</h2>
+
+    <div class="output-card">
+      <p>
+        I plan to pursue graduate study in biostatistics and am especially interested in
+        applying statistical methods to clinical trials, healthcare analytics, regulatory
+        science, and public health decision-making.
+      </p>
+    </div>
   </section>
 
   <section class="content-block">
     <h2>Links</h2>
+
     <div class="contact-links left">
       <a href="mailto:hmweber@ncsu.edu">Email</a>
       <a href="https://github.com/hmw0905" target="_blank">GitHub</a>
       <a href="https://linkedin.com/in/hmweber5" target="_blank">LinkedIn</a>
     </div>
   </section>
+
 </main>
+
+<footer>
+  <p>© 2026 Hannah Weber</p>
+</footer>
 
 </body>
 </html>
