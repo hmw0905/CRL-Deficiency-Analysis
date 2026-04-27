@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Statistical Results | Hannah Weber</title>
 <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
 <nav class="nav page-nav">
-  <div class="logo">Hannah Weber</div>
+  <a class="logo" href="index.html">Hannah Weber</a>
   <div class="nav-links">
     <a href="index.html">Home</a>
     <a href="paper.html">Paper</a>
@@ -24,55 +26,50 @@
   <h1>SAS Results and Supplementary Analyses</h1>
 
   <p class="page-intro">
-    This page contains the main statistical outputs from the CRL deficiency analysis,
-    including frequency summaries, chi-square tests, co-occurrence findings, and logistic regression models.
+    This page contains the primary SAS output from the CRL deficiency analysis, including
+    domain frequencies, NDA vs BLA comparisons, subtype summaries, co-occurrence tables,
+    and logistic regression models.
   </p>
 
-  <div class="cards">
-    <div class="card">
-      <h3>51.5%</h3>
-      <p>CMC deficiencies were the most common coded domain.</p>
-    </div>
-    <div class="card">
-      <h3>24.1%</h3>
-      <p>Clinical deficiencies were the second most common domain.</p>
-    </div>
-    <div class="card">
-      <h3>p &lt; 0.001</h3>
-      <p>Domain distributions differed by application type.</p>
-    </div>
-  </div>
-
-  <div class="image-box">
-    <img src="Domain_dashboard.png" alt="Domain dashboard results">
+  <div class="buttons">
+    <a href="Results/CRL Primary Results.pdf" target="_blank" class="btn gold">Open Primary Results PDF</a>
   </div>
 
   <section class="content-block">
-    <h2>Download Results</h2>
+    <h2>Primary Results Preview</h2>
+    <div class="pdf-box">
+      <iframe src="Results/CRL Primary Results.pdf"></iframe>
+    </div>
+  </section>
+
+  <section class="content-block">
+    <h2>Supplementary Results</h2>
 
     <div class="output-grid">
       <div class="output-card">
-        <h3>Primary Results</h3>
-        <a href="Results/CRL Primary Results.pdf" target="_blank">Open PDF →</a>
-      </div>
-
-      <div class="output-card">
         <h3>Co-Occurrence Supplement</h3>
+        <p>Additional outputs showing deficiency domain clustering.</p>
         <a href="Results/CRL Co-Occurrence Supplement.pdf" target="_blank">Open PDF →</a>
       </div>
 
       <div class="output-card">
         <h3>Domain Supplement</h3>
+        <p>Expanded domain-level summaries and tables.</p>
         <a href="Results/CRL Domain Supplement.pdf" target="_blank">Open PDF →</a>
       </div>
 
       <div class="output-card">
         <h3>Subtype Supplement</h3>
+        <p>Detailed subtype distributions across coded CRLs.</p>
         <a href="Results/CRL Subtype Supplement.pdf" target="_blank">Open PDF →</a>
       </div>
     </div>
   </section>
 </main>
+
+<footer>
+  <p>© 2026 Hannah Weber</p>
+</footer>
 
 </body>
 </html>
